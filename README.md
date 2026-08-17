@@ -3,9 +3,17 @@
 2025–2026 年 Nature 正刊、Nature 子刊、Nature Communications 与 npj Digital Medicine 中
 **AI/LLM agent 系统与基准**的原创研究论文清单，按「AI 能否自动化评估」分级。
 
-## 内容
+## 目录
 
-`agent_papers_SOTA_evaluation.xlsx` — 54 篇，字段包括：
+```
+papers/
+├── 54 × 期刊_年份_标题_文章ID.pdf
+└── agent_papers_SOTA_evaluation.xlsx
+```
+
+## 表格字段
+
+`papers/agent_papers_SOTA_evaluation.xlsx` — 54 篇，字段包括：
 
 | 字段 | 说明 |
 |---|---|
@@ -23,4 +31,6 @@ journal-article（共扫描约 48,700 篇），本地正则过滤 agent 相关�
 
 ## 说明
 
-论文全文 PDF 受出版商版权保护，**不包含在本仓库中**。请通过表中 Paper link 自行获取。
+论文全文 PDF 位于 `papers/`，文件名格式为 `期刊_年份_标题_文章ID.pdf`，与表格逐行一一对应。
+
+⚠️ 这些 PDF 受出版商版权保护，仅供内部研究使用，请勿公开分发。本仓库为私有仓库。
