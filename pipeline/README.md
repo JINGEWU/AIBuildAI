@@ -85,7 +85,7 @@ S8 是幂等的——只补缺失、只删已不合格（`--prune`），反复�
 | S8 | `run.py build [--tiers SAB\|--xlsx-only\|--prune\|--dry-run]` | `delivery/`（`pdfs/` + `信息抽取.xlsx`） |
 | S9 | `run.py enrich` | 领域/类型/SOTA 分布（被 S8 引用） |
 | — | `legacy/reproduce.py verify` | 核对三套已发布交付物是否仍自洽 |
-| — | `legacy/reproduce.py batch2\|batch3\|index\|import-legacy` | 复现历史交付 |
+| — | `legacy/reproduce.py batch2\|batch3\|import-legacy` | 复现历史交付 |
 | S10 | `run.py needlist` | `待手动下载_batch2.xlsx` + `.csv` |
 | 工具 | `run.py pdftools mine\|deep\|tables\|pages\|render\|shrink <DOI...>` | 证据文本 / PNG / 压缩后 PDF |
 | 工具 | `./push_batch.sh <目录> [每批MB]` | 分批 commit+push |
@@ -206,9 +206,8 @@ pipeline/
   legacy/           复现已发布交付的独立工具，日常不用
     reproduce.py    统一入口（含各批次当初的构建参数）
     build_batch.py  旧的 A001_ 档位编号构建器
-    merge_index.py  把三套已发布交付拼成总表
     import_legacy.py 旧表 → extracted.json 的一次性迁移
-    tables.py       只服务复现的判定表（从 config.py 挪出）
+    tables.py       旧语料的期刊缩写映射（从 config.py 挪出）
   pdftools.py       PDF 证据抽取四件套 + 交付前压缩
   push_batch.sh     大批量二进制分批推送（单次 push 超 ~100MB 易被掐断，且无断点续传）
 data/               中间产物（jsonl + state json）

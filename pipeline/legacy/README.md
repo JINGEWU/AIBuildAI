@@ -23,7 +23,6 @@
 python3 pipeline/legacy/reproduce.py verify          # 核对三套交付物是否仍自洽（最常用）
 python3 pipeline/legacy/reproduce.py batch2          # 重建 batch2/（254 篇）
 python3 pipeline/legacy/reproduce.py batch3          # 重建 batch3/（60 篇）
-python3 pipeline/legacy/reproduce.py index           # 拼成 全量索引.xlsx
 python3 pipeline/legacy/reproduce.py import-legacy   # 把 main 旧表导入 extracted.json（已执行过）
 ```
 
@@ -36,9 +35,8 @@ python3 pipeline/legacy/reproduce.py import-legacy   # 把 main 旧表导入 ext
 |---|---|
 | `reproduce.py` | 统一入口，记录了各批次当初的构建参数（`RECIPES`） |
 | `build_batch.py` | 旧的 `A001_` 档位编号构建器 |
-| `merge_index.py` | 把三套已发布交付拼成总表（正式流程不需要，因为它本来就只有一套） |
 | `import_legacy.py` | 一次性迁移：旧表 → `extracted.json` / `verdicts2.json` |
-| `tables.py` | 只服务复现的判定表：期刊缩写映射、旧语料里的纯基准论文清单 |
+| `tables.py` | 只服务复现的判定表：旧语料的期刊缩写映射 |
 
 `tables.py` 从 `config.py` 挪出来是有意的——`config.py` 是正式 pipeline 的唯一规则文件，
 不该混进历史包袱。
@@ -48,6 +46,6 @@ python3 pipeline/legacy/reproduce.py import-legacy   # 把 main 旧表导入 ext
 复用父目录的 `config.py` / `common.py` / `s9_enrich.py`，靠 `sys.path` 把父目录接进来。
 反向不成立：正式流程不引用这里任何东西（可用 `grep -rn "legacy" ../*.py` 验证）。
 
-判定数据仍在 `data/` 下：`verdicts2.json`、`extracted.json`、`baseline_verdicts.json`、
-`batch3_selected.json`。这些是人和模型的判断，程序重算不出来——`data/` 没进版本库，
-丢了就得重判，是这个项目最脆弱的一环。
+判定数据在 `data/` 下。前三个已入库（`verdicts2.json`、`extracted.json`、
+`baseline_verdicts.json`），`batch3_selected.json` 是 batch3 的入选名单、复现 batch3 时需要，
+但仍未入库——`data/` 整体不上传，只对那三个开了例外。

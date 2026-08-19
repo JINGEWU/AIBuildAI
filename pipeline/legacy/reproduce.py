@@ -15,7 +15,6 @@
 
   reproduce.py batch2          重建 batch2/（254 篇，A001_ 编号）
   reproduce.py batch3          重建 batch3/（60 篇）
-  reproduce.py index           把 papers/ + batch2/ + batch3/ 拼成 全量索引.xlsx
   reproduce.py import-legacy   把 main 的旧表导入 extracted.json（一次性迁移）
   reproduce.py verify          核对三套交付物与当前数据是否仍然自洽
 """
@@ -111,13 +110,10 @@ def verify():
 def main():
     ap = argparse.ArgumentParser(prog="reproduce", description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("what", choices=["batch2", "batch3", "index", "import-legacy", "verify"])
+    ap.add_argument("what", choices=["batch2", "batch3", "import-legacy", "verify"])
     a, extra = ap.parse_known_args()
     if a.what in RECIPES:
         return rebuild(a.what, extra)
-    if a.what == "index":
-        import merge_index
-        return merge_index.main(extra)
     if a.what == "import-legacy":
         import import_legacy
         ap2 = argparse.ArgumentParser(prog="import-legacy")
