@@ -11,13 +11,23 @@ D={m.norm_doi(r['doi']):r for r in m.read_jsonl(f"{C.DATA}/fulltext_digest.jsonl
 st=m.load_shards("fetch_state")
 
 # 已抽取 且 入选 且 S/A/B 档
-rows=[]
+# XML 全文（EPMC JATS）剥离了表格与图注，抽出的信息不全，本批不纳入
+def is_xml_source(doi):
+    s=st.get(doi) or {}
+    return s.get('src')=='epmc-xml' or (s.get('file') or '').lower().endswith('.xml')
+
+rows=[]; skipped_xml=[]
 for d,v in V.items():
     if v.get('v')!='入选' or d not in E: continue
     g=D.get(d,{})
     sc=m.repro_score(v,g,g.get('journal')); t=m.repro_tier(sc)
     if t not in ('S','A','B'): continue
+    if is_xml_source(d):
+        skipped_xml.append((t,d,(g.get('title') or '')[:60])); continue
     rows.append({'doi':d,'v':v,'g':g,'e':E[d],'score':sc,'tier':t})
+if skipped_xml:
+    print(f"排除 XML 来源 {len(skipped_xml)} 篇（信息不全）:")
+    for t,d,ti in sorted(skipped_xml): print(f"   [{t}] {d}  {ti}")
 rows.sort(key=lambda x:(-x['score']))
 
 # 文件来源索引（fulltext 优先，隔离区兜底）
