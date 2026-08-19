@@ -12,6 +12,7 @@ _剔除_*/
 *.xlsx
 *.csv
 !batch2/*.xlsx
+!batch3/*.xlsx
 
 # 顶层散落的中间产物
 下载脚本_*.js
@@ -19,6 +20,9 @@ _剔除_*/
 非官方_隔离/
 fulltext_xml/
 
-# 上面的 !batch2/*.xlsx 例外会连 Excel 锁文件一并放行，须在最后再排除一次
+# 上面的 !batch2/*.xlsx
+!batch3/*.xlsx 例外会连 Excel 锁文件一并放行，须在最后再排除一次
 batch2/~$*
 batch2/*.zip
+batch3/~$*
+batch3/*.zip
