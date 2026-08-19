@@ -18,10 +18,11 @@
     dedupe     S6 与既有 54 篇去重 → data/baseline_dois.json
     info       S7 信息抽取(14字段)  → 信息抽取_新增候选.xlsx   [dump|save|export]
     build      S8 交付构建(无批次)  → delivery/ (pdfs/ + 信息抽取.xlsx)
-    build-legacy  复现旧的 batch2/batch3 目录（仅为可追溯，日常不用）
     enrich     S9 领域/类型/SOTA 分档  (被 build 引用，单跑可看分布)
     needlist   S10 手动下载清单    → 待手动下载_batch2.xlsx + .csv
-    index      S11 三套合并总表     → 全量索引.xlsx（不动实体文件）
+
+复现历史交付（独立于本流程，日常不用）:
+    python3 pipeline/legacy/reproduce.py batch2|batch3|index|import-legacy|verify
 
 工具（非流水线阶段）:
     pdftools   PDF 证据抽取  [mine|deep|tables|pages|render|shrink]
@@ -49,10 +50,8 @@ STAGES = {
     "dedupe":   ("s6_dedupe",   "S6 与既有语料去重"),
     "info":     ("s7_extract_info", "S7 信息抽取(14字段)"),
     "build":    ("s8_build",    "S8 交付构建(无批次)"),
-    "build-legacy":("s8_build_batch","S8 复现旧的 batch2/batch3"),
     "enrich":   ("s9_enrich",   "S9 领域/类型/SOTA 分档"),
     "needlist": ("s10_needlist","S10 手动下载清单"),
-    "index":    ("s11_merge_index","S11 三套合并总表"),
     "pdftools": ("pdftools",    "PDF 证据抽取工具"),
 }
 

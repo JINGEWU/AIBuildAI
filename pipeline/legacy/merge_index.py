@@ -14,8 +14,10 @@ main 那 54 篇原表只有 14 列，缺的 9 列在这里补齐：
 用法: python3 run.py index [--out 全量索引.xlsx]
 """
 import os, sys, re, json, argparse, collections
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path[:0] = [os.path.dirname(os.path.abspath(__file__)),
+                os.path.dirname(os.path.dirname(os.path.abspath(__file__)))]
 import config as C, common as m
+import tables as T
 import s9_enrich as s9
 
 MAIN_XLSX = f"{C.PAPERS}/agent_papers_SOTA_evaluation.xlsx"
@@ -53,7 +55,7 @@ def load_main():
     for r in rows:
         d = _doi(r)
         r = {RENAME.get(k, k): v for k, v in r.items()}
-        jfull = C.JOURNAL_ABBR.get(str(r.get("期刊") or "").strip(), str(r.get("期刊") or "").strip())
+        jfull = T.JOURNAL_ABBR.get(str(r.get("期刊") or "").strip(), str(r.get("期刊") or "").strip())
         j = J.get(jfull) or {}
         v = V.get(d) or {}
         g = D.get(d) or {}
@@ -69,7 +71,7 @@ def load_main():
             "期刊领域": j.get("field") or "",
             "任务领域": s9.domain(r.get("系统·论文") or "", r.get("Benchmark 名称") or "",
                               r.get("复刻备注") or ""),
-            "文章类型": ("纯基准评测" if d in C.BASELINE_PURE_BENCH else "原创方法"),
+            "文章类型": ("纯基准评测" if d in T.BASELINE_PURE_BENCH else "原创方法"),
             "SOTA可对比性": s9.sota_status({"sota": r.get("论文报告的 SOTA")}),
             "复刻优先级": m.repro_tier(sc),
             "复刻分": sc,

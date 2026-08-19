@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """构建 batch2/ 交付文件夹：仅含已抽取的 S/A/B 档论文 PDF + 汇总 xlsx。"""
-import os,sys,json,shutil,re,collections; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+import os,sys,json,shutil,re,collections; sys.path[:0] = [os.path.dirname(os.path.abspath(__file__)),
+               os.path.dirname(os.path.dirname(os.path.abspath(__file__)))]
 import config as C, common as m
 
 from s9_enrich import domain, art_type, sota_status, REVIEW

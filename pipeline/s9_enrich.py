@@ -4,7 +4,7 @@
 三个分类维度都作用在 S7 抽取结果之上，不再读 PDF，因此很便宜、可反复重跑。
 口径表在 config.py（DOMAIN / PURE_BENCH / REVIEW / METHOD_OVERRIDE / RE_ST_*）。
 
-作为库被 s8_build_batch 引用；单独运行则打印各维度分布，用来核对口径合理性。
+作为库被 S8 交付构建引用；单独运行则打印各维度分布，用来核对口径合理性。
 """
 import sys, os, re, json, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

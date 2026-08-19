@@ -3,6 +3,17 @@
 从顶刊里捞出**可复现、可对标**的 AI/agent 论文：拉全量元数据 → 两轮筛选 → 只取官方全文 →
 抽取复刻所需信息，并给出复刻优先级 S/A/B/C。
 
+## 两套东西
+
+| | 位置 | 用途 |
+|---|---|---|
+| **正式 pipeline** | `run.py` + `s0…s10` | 未来一次性跑完新论文，不分批次 |
+| **复现工具** | `legacy/reproduce.py` | 只为重建已发布的 batch2/batch3/main，日常不用 |
+
+正式流程不引用 legacy 任何东西（`grep -rn legacy *.py` 只会命中一行注释）。
+反向则复用父目录的 `config.py`/`common.py`/`s9_enrich.py`。
+详见 [`legacy/README.md`](legacy/README.md)。
+
 ## 入选标准
 
 必须**同时**满足，缺一条即排除：
@@ -71,11 +82,10 @@ S8 是幂等的——只补缺失、只删已不合格（`--prune`），反复�
 | S5 | `run.py screen2 dump\|save\|export` | `第二轮筛选结果.xlsx` |
 | S6 | `run.py dedupe` | `data/baseline_dois.json` |
 | S7 | `run.py info dump\|save\|export` | `信息抽取_新增候选.xlsx` |
-| S7 | `run.py info import [--file 旧表.xlsx]` | 把旧格式汇总表并入 `extracted.json` |
 | S8 | `run.py build [--tiers SAB\|--xlsx-only\|--prune\|--dry-run]` | `delivery/`（`pdfs/` + `信息抽取.xlsx`） |
 | S9 | `run.py enrich` | 领域/类型/SOTA 分布（被 S8 引用） |
-| — | `run.py build-legacy` | 复现旧的 batch2/batch3 目录，仅为可追溯 |
-| — | `run.py index` | 把已发布的 batch2/batch3/papers 拼成总表，仅为兼容旧交付 |
+| — | `legacy/reproduce.py verify` | 核对三套已发布交付物是否仍自洽 |
+| — | `legacy/reproduce.py batch2\|batch3\|index\|import-legacy` | 复现历史交付 |
 | S10 | `run.py needlist` | `待手动下载_batch2.xlsx` + `.csv` |
 | 工具 | `run.py pdftools mine\|deep\|tables\|pages\|render\|shrink <DOI...>` | 证据文本 / PNG / 压缩后 PDF |
 | 工具 | `./push_batch.sh <目录> [每批MB]` | 分批 commit+push |
@@ -85,7 +95,7 @@ S8 是幂等的——只补缺失、只删已不合格（`--prune`），反复�
 带进文件名就意味着重命名。每次运行只做三件事：补缺失的 PDF、报告已不合格的
 （`--prune` 才删）、重出表格。因此可以随时重跑，不会打乱已经发出去的文件。
 
-`build-legacy` 保留了旧的 `A001_` 编号逻辑，只为复现已发布的 batch2/batch3；
+旧的 `A001_` 编号逻辑搬到了 `legacy/build_batch.py`，只为复现已发布的 batch2/batch3；
 它默认拒绝覆盖已有目录，要 `--force` 才会作废旧名重建。
 
 ### S7 信息抽取的四级手段
@@ -191,9 +201,14 @@ pipeline/
   run.py            统一入口 + status
   config.py         全部规则：路径/关键词/正则/权重/期刊    ← 改规则只动这里
   common.py         限速HTTP、断点state、DOI规范化、分片、PDF版本判定、评分
-  s0_journals.py … s11_merge_index.py
+  s0_journals.py … s10_needlist.py
   s8_build.py       交付构建（无批次，稳定命名，幂等）
-  s8_build_batch.py 旧批次构建，仅为复现已发布的 batch2/batch3
+  legacy/           复现已发布交付的独立工具，日常不用
+    reproduce.py    统一入口（含各批次当初的构建参数）
+    build_batch.py  旧的 A001_ 档位编号构建器
+    merge_index.py  把三套已发布交付拼成总表
+    import_legacy.py 旧表 → extracted.json 的一次性迁移
+    tables.py       只服务复现的判定表（从 config.py 挪出）
   pdftools.py       PDF 证据抽取四件套 + 交付前压缩
   push_batch.sh     大批量二进制分批推送（单次 push 超 ~100MB 易被掐断，且无断点续传）
 data/               中间产物（jsonl + state json）
