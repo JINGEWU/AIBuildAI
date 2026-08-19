@@ -14,6 +14,37 @@ papers/                早期 54 篇 Nature 系 agent 论文 + 评估表
 data/                  抓取脚本、状态文件、元数据
 ```
 
+## 交付批次
+
+三套交付物，互不重复（合计 368 篇 = 368 个唯一 DOI）：
+
+| 批次 | 篇数 | 汇总表 | PDF 目录 |
+|---|---|---|---|
+| papers | 54 | `papers/agent_papers_SOTA_evaluation.xlsx` | `papers/` |
+| batch2 | 254 | `batch2/信息抽取batch2.xlsx` | `batch2/pdfs_batch2/` |
+| batch3 | 60 | `batch3/信息抽取batch3.xlsx` | `batch3/pdfs_batch3/` |
+
+`batch2` 与 `batch3` 判据、字段完全一致（23 列），分成两批只因 batch3 的官方全文
+是后来补齐下载的。`papers/` 是早期语料，表只有 14 列。
+
+核对三套是否仍自洽：
+
+```bash
+python3 pipeline/legacy/reproduce.py verify
+```
+
+## 入选标准（判据）
+
+必须**同时**满足：
+
+1. 提出 agent 系统 / AI 系统 / 模型
+2. 有明确的、AI 可复现的 benchmark pipeline
+3. **测试集公开可下载**（部分公开也算）
+4. **评估可自动化** —— 排除湿实验、硬件测评、人工评测为主判据的
+5. **论文中报告了可对比的 SOTA 数值**
+
+流水线与判据实现见 [`pipeline/README.md`](pipeline/README.md)。
+
 ## 全文库现状
 
 | 指标 | 数值 |

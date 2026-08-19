@@ -1,0 +1,4076 @@
+{
+"10.1109/tpami.2026.3697634": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "AeroVerse；基准套件 GitHub 公开，SkyAgentX 在四项核心任务平均超既有方法 8.52%；主判据为 GPT-4 评分（AI 可自动化）"
+},
+"10.1109/tpami.2026.3711762": {
+"v": "排除",
+"auto": "C",
+"open": "否",
+"sota": "有",
+"note": "无任何公开链接,评测以user study为主,无法自动化"
+},
+"10.1109/tpami.2026.3697367": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "Ego-R1有定量对比但未见代码/基准链接,需查arXiv附录"
+},
+"10.1109/tpami.2024.3373868": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "NineRec基准数据集套件github公开,NDCG客观指标"
+},
+"10.1109/tpami.2026.3722239": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "PRIMEdit 多目标视频编辑；人评证据 15 处、user study 为主判据之一，自提 CIA Score 可自动化但权重不明"
+},
+"10.1109/tpami.2025.3633890": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "VBench++ github+HF spaces,视频生成多维自动指标+人评对齐"
+},
+"10.1109/tpami.2026.3718699": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "RingMo-Agent；八项遥感任务超专家模型与通才模型，但未给数据集与代码链接，测试集可得性存疑"
+},
+"10.1109/tpami.2026.3683747": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VLBiasBench github公开,最好模型仅0.7准确率,头顶空间大"
+},
+"10.1109/tpami.2026.3676710": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "OST github;Vi-Fi与JRDB公开数据集,轨迹去噪与预测SOTA"
+},
+"10.1109/tpami.2026.3656175": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "用COCO/MMBench/MMMU/POPE/SEED-Bench公开基准,F1客观;自建集无链接"
+},
+"10.1109/tpami.2026.3688944": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DirLinkBench+SDGAE,github齐全,cora/citeseer/ogb公开"
+},
+"10.1109/tpami.2025.3634161": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "AI-TOD-R数据集+基准+代码同址公开,mAP客观;SOTA<30%AP空间大"
+},
+"10.1109/tpami.2025.3531907": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "T2I-CompBench++组合文生图基准,自动指标+人评校准"
+},
+"10.1109/tpami.2025.3535960": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RoboBEV github,nuScenes公开,评测33个SOTA模型鲁棒性"
+},
+"10.1109/tpami.2026.3696678": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "AFM2 github,COCO等公开集,免训练范式对比"
+},
+"10.1109/tpami.2026.3653457": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MERBench github MERTools,多模态情绪统一评测"
+},
+"10.1038/s41586-025-10097-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DeepRare:HF RareBench+MIMIC-IV+github,Recall@1 57.18%超次优23.79%"
+},
+"10.1038/s41586-025-08661-4": {
+"v": "入选",
+"auto": "A+",
+"open": "是",
+"sota": "有",
+"note": "TextGrad github,GSM8K/MMLU/MathVista/LeetCode,可执行验证"
+},
+"10.1038/s41586-026-10181-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Merlin github StanfordMIMI,AUROC/Dice客观,自带CT数据集"
+},
+"10.1038/s41586-025-10072-4": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "OpenScholar github ScholarQABench+HF数据,LLM-judge+专家评混合"
+},
+"10.1038/s41586-024-08328-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TabPFN;链接未抽到但实际github/HF公开,OpenML基准,2.8秒胜4小时调优集成"
+},
+"10.1038/s41586-026-10549-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "OpenAI幻觉论文,github实验代码,HLE/MMLU/SWE-bench公开"
+},
+"10.1038/s41586-025-09962-4": {
+"v": "入选",
+"auto": "A+",
+"open": "是",
+"sota": "有",
+"note": "HLE专家级基准,github centerforaisafety/hle,SOTA准确率与校准都低"
+},
+"10.1038/s41551-026-01634-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BioMedAgent:BioMed-AQA基准HF公开+github,77%成功率"
+},
+"10.1038/s41551-025-01587-2": {
+"v": "入选",
+"auto": "A+",
+"open": "是",
+"sota": "有",
+"note": "BioDSBench:HF公开+github,Pass@1可执行验证,hard档仅32%"
+},
+"10.1038/s41551-026-01739-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Pathology-CoT github,召回100%/97.6%,超o3(46.7%精度)"
+},
+"10.1038/s41467-025-65077-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DNALONGBENCH:Harvard Dataverse DOI+github,长程DNA预测基准套件"
+},
+"10.1038/s41467-025-67084-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CASSIA github+GEO GSE307976,970细胞类型79%准确率"
+},
+"10.1038/s41467-025-63804-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MAP github+zenodo,OOD泛化24%对比基线极低"
+},
+"10.1038/s41467-025-64769-1": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "MedR-Bench 1453例github公开CC BY-NC-SA,含案例质量人评"
+},
+"10.1038/s41467-025-62385-7": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "RadFM github,MIMIC-CXR/PadChest公开,超GPT-4V但含人评"
+},
+"10.1038/s41467-026-71622-6": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GP-Bench github代码公开,测试集限非商用研究需申请"
+},
+"10.1038/s41467-026-68725-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Zenodo数据+github,24个靶点assay基准,AUC 0.714超全监督"
+},
+"10.1038/s41467-025-67970-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SleepGPT github+PhysioNet公开数据,睡眠分期SOTA"
+},
+"10.1038/s41467-026-74501-2": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "EmulatRx代码Zenodo/github公开,但INSIGHT需申请、MIMIC-IV需DAA"
+},
+"10.1038/s41467-025-56739-4": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "NeuroBench算法赛道Zenodo可复现,系统赛道需神经形态硬件"
+},
+"10.1038/s41467-025-67127-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FoldBench github+Zenodo,AlphaFold3成功率64.9%超Boltz-1近10%"
+},
+"10.1038/s41467-026-75283-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "EnzGFM github+Zenodo,UniRef50等公开数据,对标ESM2/ESM-C"
+},
+"10.1038/s41467-025-64186-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SCORE github+GEO,单细胞Hi-C嵌入工具综合基准"
+},
+"10.1038/s42256-025-01152-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "LabSafety-Bench HF+github,19个模型无一超70%准确率"
+},
+"10.1038/s42256-025-01160-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PoseBench基准+Zenodo数据CC-BY,CASP/PDBBind公开,AF3等对比"
+},
+"10.1038/s41591-026-04357-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SPARK github cpath-ukk+zenodo,TCGA公开,MSI达SOTA;AUROC客观"
+},
+"10.1038/s41591-025-04151-2": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "MedHELM基于stanford-crfm/helm,MedQA/MIMIC公开;LLM-jury与临床评一致ICC0.47"
+},
+"10.1109/tpami.2025.3648017": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "AR-DBSCAN github,聚类精度提升144%/175%,客观指标"
+},
+"10.1109/tpami.2026.3680062": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PragComm github,OPV2V公开,通信量降32.7K倍"
+},
+"10.1109/tpami.2026.3682514": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "EvolveNav仅引FastChat,自身代码链接未抽到;R2R基准公开"
+},
+"10.1109/tpami.2026.3708691": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Face-MoGLE github,可控人脸生成多基准SOTA"
+},
+"10.1109/tpami.2025.3600658": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FoundSkelModel github,骨架动作理解基础模型,USDRL达SOTA"
+},
+"10.1109/tpami.2026.3692923": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RAW-Adapter,ADE20K/COCO/ImageNet公开,参数量仅0.2-0.8M"
+},
+"10.1109/tpami.2025.3612480": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SMILE基于fusion_bench github,GLUE/MMLU/GSM8K公开,八任务优于融合基线"
+},
+"10.1109/tpami.2026.3694367": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "GRTS红队多智能体博弈,依赖safe-rlhf;攻击成功率可自动判但含人工策略"
+},
+"10.1109/tpami.2025.3598734": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VisionUnite github,超GPT-4V与LLaVA-Med,眼科多条件"
+},
+"10.1109/tpami.2025.3562422": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Prophet github MILVLG,OK-VQA/TextVQA/GQA/VQAv2四基准SOTA"
+},
+"10.1109/tpami.2025.3557581": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "HyperSIGMA自建HyperGlobal-450K预训练集,代码链接未抽到需核实"
+},
+"10.1109/tpami.2025.3540467": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MIXRTs github+pymarl,SMAC公开;可解释性侧重但胜率客观"
+},
+"10.1109/tpami.2025.3603062": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "图指令微调,cora/ogb/MIMIC-III公开,五任务十数据集"
+},
+"10.1109/tpami.2026.3692903": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "异方差扩散,NBA/Basketball-U/Football-U/Soccer-U四运动数据集"
+},
+"10.1109/tpami.2025.3634378": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DDFG github,SMAC公开,3s5z/1c3s5z超QMIX变体"
+},
+"10.1109/tpami.2025.3552309": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "噪声监督影响,COCO/GLUE/ImageNet公开"
+},
+"10.1109/tpami.2026.3700402": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "UniMM 多智能体仿真；Waymo Open Motion/nuScenes 公开，minADE/成功率客观，三种变体均达 SOTA（旧判定基于 arXiv 版，已用官方版重判）"
+},
+"10.1109/tpami.2025.3539433": {
+"v": "待定",
+"auto": "B",
+"open": "否",
+"sota": "有",
+"note": "LoTbench创造力评测无公开链接,人评占比高"
+},
+"10.1109/tpami.2025.3618630": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "3D面具攻击检测无任何公开链接,基准集未指明"
+},
+"10.1109/tpami.2026.3708251": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RBF++ github reasoning-boundary,GSM8K公开,MARP++提升≥2%"
+},
+"10.1109/tpami.2025.3540889": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PROOF github,九个基准数据集持续学习SOTA"
+},
+"10.1109/tpami.2025.3554559": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "NavCoT github,R2R公开,超GPT-4方法约7点SR/SPL"
+},
+"10.1109/tpami.2026.3697442": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "APPT github,三维点云多下游任务超现有方法"
+},
+"10.1109/tpami.2025.3649001": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CrossEarth github VisionXLab,遥感域泛化分割SOTA"
+},
+"10.1109/tpami.2025.3602237": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "RingMo-Aerial仅引mmpretrain,自身权重/代码链接未抽到"
+},
+"10.1109/tpami.2024.3511593": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "JARVIS-1开放世界智能体,MineDojo公开,钻石镐可靠性超VPT(6%vs2.5%)"
+},
+"10.1038/s41586-024-08378-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RenalCLIP github+权重公开,10项核心任务超SOTA,AUROC/C-index客观"
+},
+"10.1038/s41586-025-09215-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Centaur:Psych-101数据集HF公开(含test),Llama3.1-70B微调"
+},
+"10.1038/s41586-025-09716-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FHIBE公平性基准,github SonyResearch公开"
+},
+"10.1038/s41586-025-09005-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Aurora地球系统基础模型,WeatherReal-Benchmark公开,RMSE客观超业务预报"
+},
+"10.1038/s41586-024-08391-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GET转录基础模型,HF spaces+github+figshare齐全"
+},
+"10.1038/s41551-026-01719-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BRIDGE:HF数据集+leaderboard+github,最优仅44.8分,头顶空间极大"
+},
+"10.1038/s41551-026-01741-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CLEAR github+HF权重,MIMIC-CXR/CheXpert/PadChest公开"
+},
+"10.1038/s41551-026-01668-w": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "头部CT三维基础模型,RSNA/CQ500公开;自身代码仅引第三方"
+},
+"10.1038/s41551-026-01764-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ConceptCLIP github+HF权重,CheXpert/TCGA/Camelyon公开"
+},
+"10.1038/s41467-026-71928-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DxDirector github源码全开,RareArena/ClinicalBench/MedQA全公开"
+},
+"10.1038/s41467-025-67178-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "多智能体Q学习演化博弈,github+Zenodo,MTBR策略优于大量对手"
+},
+"10.1038/s41551-025-01599-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CT-RATE数据集HF公开+RAD-ChestCT Zenodo+CT-CLIP/CT-CHAT代码,零样本超全监督"
+},
+"10.1038/s41557-025-01815-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ChemBench自动化框架,Zenodo公开2700+问答,最好模型平均超人类化学家"
+},
+"10.1038/s41467-026-70467-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CLOUD github,Matbench/JARVIS公开,晶体表征物理信息"
+},
+"10.1038/s41467-026-74077-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github+Zenodo,GEO数据公开,LLM筛选cfRNA标记优于随机"
+},
+"10.1038/s41467-025-66220-x": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "mSTAR github,97任务中69用公开集28私有;TCGA/Camelyon公开"
+},
+"10.1038/s41467-025-62058-5": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "LEADS github+HF权重+LEADSInstruct数据集;含16人用户研究但有客观指标"
+},
+"10.1038/s41467-026-72436-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ECG-LFM,PTB-XL/CODE-15/CPSC-2018/PhysioNet公开,AUROC超HeartBEiT"
+},
+"10.1038/s41467-026-70071-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CellVQ github MIT+figshare测试集,NMI/ARI/SIL客观超基线"
+},
+"10.1038/s41467-026-75382-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "NEMARL github+DOI存档,网络演化时序预测"
+},
+"10.1038/s41467-025-64574-w": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SafeTraffic代码Zenodo公开,HSIS原始数据受限;F1提升33-46%"
+},
+"10.1038/s41467-026-73943-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TAMP github+合成评测集公开,PSNR在16任务/LPIPS在23任务领先"
+},
+"10.1038/s41467-026-72882-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CAPTAIN github,scIB基准,超Seurat/sciPENN/TotalVI等五方法"
+},
+"10.1038/s41467-026-71090-y": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "PhenoAssistant github+Zenodo,CVPPP2017公开;LLM-as-judge评估"
+},
+"10.1038/s41467-025-59926-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CellFM github+Zenodo,1亿细胞预训练,细胞注释与扰动预测超现有"
+},
+"10.1038/s41467-026-70377-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "LiTEN github+HF数据,MD17/QM9公开,精度与速度双SOTA"
+},
+"10.1038/s41467-025-56989-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BioNLP基准Zenodo公开,微调优于零/少样本LLM"
+},
+"10.1038/s41467-026-73986-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "UniBiomed github含代码数据模型,分割显著超SOTA基础模型"
+},
+"10.1038/s41467-025-58796-1": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "明确声明病理基准数据不公开(防污染),仅代码公开"
+},
+"10.1038/s41467-025-66340-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Echo-Vision-FM github,MIMIC-IV-Echo/CAMUS公开,LVEF MAE 3.87%"
+},
+"10.1038/s41467-025-67922-y": {
+"v": "待定",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "PHIA代码公开但主评估为650小时专家人评,自动化难"
+},
+"10.1038/s41467-026-74175-w": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "RenalCLIP github+权重,TCIA/GDC公开;多中心影像受限"
+},
+"10.1038/s41467-025-63790-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "pyinn github自动生成基准数据,超PDE求解器与PINN"
+},
+"10.1038/s41467-025-57587-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BEPH github+Zenodo,TCGA公开,超CHIEF/UNI/GigaPath"
+},
+"10.1038/s41467-025-68216-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DisasTeller github,QCRI危机图像数据集公开"
+},
+"10.1038/s41467-025-66620-z": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "LCTfound数据需申请表,figshare有部分;超MAE/MedSAM"
+},
+"10.1038/s41467-026-70274-w": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "ClinDiag github框架+基准三子集,含人评;超所有基线"
+},
+"10.1038/s41467-026-74865-5": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "NEVA github含权重与示例数据,临床数据受限;超TITAN/UNI/Virchow等十模型"
+},
+"10.1038/s41467-025-57427-z": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "VFMGL代码github公开,EC数据需邮件申请"
+},
+"10.1038/s41467-026-69102-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "scLong github+Zenodo,CELLxGENE/HCA公开,超scGPT/Geneformer/scFoundation/UCE"
+},
+"10.1038/s41467-024-55628-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MetaMedQA基准HF公开+github,揭示模型无法识别不可答问题"
+},
+"10.1038/s41467-025-65340-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "mRNABERT github+Zenodo数据,5'UTR/CDS设计多任务SOTA"
+},
+"10.1038/s41467-026-69010-1": {
+"v": "排除",
+"auto": "B",
+"open": "否",
+"sota": "有",
+"note": "明确声明基准条目与对抗提示不公开,仅按需索取"
+},
+"10.1038/s41467-025-60801-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Figshare公开代码与合成拓扑数据集,CNN反超Transformer结论"
+},
+"10.1038/s41467-025-61778-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CSLLM github MIT,可合成性准确率98.6%超热力学法74.1%"
+},
+"10.1038/s41467-026-74507-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SEDA-Former github+DOI,纳米孔识别97.6%/96.6%"
+},
+"10.1038/s41467-026-69245-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SpbNet github MIT+Zenodo,相对误差降超20%"
+},
+"10.1038/s41467-026-72198-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RegFormer github+figshare权重,超scGPT/Geneformer/scFoundation/scBERT"
+},
+"10.1109/tpami.2025.3610927": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "HSIGene github,首个最大高光谱生成模型,感知质量超现有"
+},
+"10.1109/tpami.2024.3475824": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Changen2代码链接未抽到;ADE20K/ImageNet公开,超SA-1B与Satlas"
+},
+"10.1109/tpami.2026.3710189": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "LanEvil++基准,nuScenes/Waymo公开,评测常规LD与ADVLM"
+},
+"10.1109/tpami.2026.3677075": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "OmniParser V2 github阿里开源,四任务八数据集SOTA"
+},
+"10.1109/tpami.2025.3574432": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BlackboxBench github+官网,黑盒攻击综合基准,CISA/MCG为SOTA"
+},
+"10.1109/tpami.2026.3683307": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Text4Seg++,ADE20K/COCO/PASCAL VOC/GQA公开,无需任务微调"
+},
+"10.1109/tpami.2024.3507010": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "MetaEarth 遥感图像生成；SOTA 表述为\"图像真实感更好\"，缺可对比数值，需核表"
+},
+"10.1109/tpami.2026.3711802": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PrefixQuant github,WikiText/C4/MMLU/HellaSwag公开,W4A4KV4 SOTA"
+},
+"10.1109/tpami.2026.3679561": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Chat-Scene++ github,三维场景理解五基准全SOTA"
+},
+"10.1038/s41586-026-10884-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VirTues github bunnelab,空间蛋白组跨技术泛化最强"
+},
+"10.1038/s41586-025-09925-9": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GluFormer github;CGM数据部分受限,预测HbA1c超基线"
+},
+"10.1038/s41467-026-70077-z": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "RETFound代码与权重公开,但MEH/AlzEye队列需受控申请"
+},
+"10.1038/s41467-025-65823-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DNA基础模型基准HF公开+github,揭示mean token embedding最优"
+},
+"10.1038/s41467-026-71411-1": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "Hyper-RAG github,NeurologyCrop+九领域数据集,准确率提升12.3%超GraphRAG"
+},
+"10.1038/s41467-025-56822-w": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "M3FM github MIT+OpenM3Chest Zenodo;NLST/MIDRC需申请,风险预测提升20%"
+},
+"10.1038/s41467-025-57426-0": {
+"v": "待定",
+"auto": "B",
+"open": "否",
+"sota": "有",
+"note": "3D-BrainCT数据集不公开需IRB审批;代码与权重公开"
+},
+"10.1038/s41467-025-65496-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "reaxnet github GPLv3+Materials Cloud数据,超NequIP与4G-HDNNP"
+},
+"10.1038/s41467-025-65066-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "OmniReg-GPT全开源含权重,Nucleotide Transformer/BEND基准公开"
+},
+"10.1038/s41467-025-61087-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TropiCycloneNet github,台风预报基准数据集,超深度学习与官方预报"
+},
+"10.1038/s41467-026-73129-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SUCCEED github,Enformer基准公开,CAGE PCC 0.76超Enformer 0.703"
+},
+"10.1038/s41467-026-70307-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FluoResFM github+Zenodo示例数据,超UniFMIR"
+},
+"10.1038/s41467-026-69426-9": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "PanMETAI源码与权重受专利保护不公开;NMR原始数据受限"
+},
+"10.1038/s41467-025-59812-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "HTE数据Zenodo+github,可行性准确率89.48% F1 0.86"
+},
+"10.1038/s41467-026-76748-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "XDEM github,断裂力学基准问题,应力强度因子等客观指标"
+},
+"10.1038/s41467-025-59822-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BAITSAO github+HF,DrugComb全公开无限制,药物协同"
+},
+"10.1038/s41467-025-61323-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MolEdit github Apache-2.0+Zenodo,QM9/ZINC/QMugs公开"
+},
+"10.1038/s42256-026-01262-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Chemeleon2 github,MP-20公开,mSUN从15.9%升至61.3%"
+},
+"10.1038/s42256-026-01180-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CSFM github+Zenodo权重,MIMIC-III-WDB/MIMIC-IV-ECG/PhysioNet公开"
+},
+"10.1038/s42256-026-01268-y": {
+"v": "入选",
+"auto": "A+",
+"open": "是",
+"sota": "有",
+"note": "agent-scaling github,SWE-bench/GSM8K/HumanEval/AgentBench全公开"
+},
+"10.1038/s42256-026-01187-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ActFound可复用性报告,figshare数据+github代码,BindingDB/DAVIS公开"
+},
+"10.1038/s42256-026-01226-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "NaFM github+figshare+Zenodo权重,NPASS公开"
+},
+"10.1038/s42256-025-01055-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Matbench Discovery框架,MP训练集+WBM测试集figshare公开,UIP胜出"
+},
+"10.1038/s42256-025-01044-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "LucaOne github三仓库(模型/推理/下游),核酸与蛋白统一"
+},
+"10.1038/s42256-024-00977-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ChEBI-20-MM HF公开+SLM4Mol github(非商用),T5类优于BERT/GPT"
+},
+"10.1038/s41591-024-03328-5": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "CRAFT-MD github,MedQA-USMLE 1800例公开;含专家评"
+},
+"10.1038/s41591-025-03888-0": {
+"v": "待定",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "PH-LLM代码公开但主评估为大规模专家人评(40处),自动化受限"
+},
+"10.1038/s41591-025-03747-y": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "PanDerm,ISIC/TCGA公开;含reader study,超临床医生10.2%"
+},
+"10.1038/s41591-025-03727-2": {
+"v": "待定",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "DeepSeek临床评测用5点Likert专家评为主,难自动化"
+},
+"10.1038/s41591-025-03982-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TITAN,TCGA/CPTAC/GTEx公开,全切片多模态基础模型"
+},
+"10.1109/tpami.2025.3639593": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VoCo github+PreCT-160K/VoComni HF数据集,AMOS/BraTS/MSD/TotalSegmentator公开,超SuPreM"
+},
+"10.1109/tpami.2025.3573609": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "LLaFS++无代码链接;PASCAL-5i/COCO-20i/FSS-1000公开基准,mIoU客观"
+},
+"10.1109/tpami.2026.3701408": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "仅引mmpose;COCO/MPII公开,六基准超SOTA且GFLOPs降30-44%"
+},
+"10.1038/s41467-026-74130-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FLOWR.ROOT github MIT,Plinder/PDBBind/GEOM-DRUGS公开,PoseBusters-validity 0.94超FLOWMOL3"
+},
+"10.1038/s41467-026-71715-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PathPT github+KidRare HF数据集,UBC-OCEAN/TCGA公开,56亚型3958 WSI"
+},
+"10.1038/s41591-026-04521-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Prism2 HF权重公开,TCGA/Camelyon/PANDA公开,C-index客观"
+},
+"10.1038/s41593-026-02202-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BrainIAC github+OSF,ABIDE/ADNI/BraTS/HCP/OpenNeuro全公开,超MedicalNet/BrainSegFounder"
+},
+"10.1093/nar/gkaf865": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FmH2ST代码公开,her2st github+GSE144240公开,超Hist2ST"
+},
+"10.1126/science.adz4433": {
+"v": "排除",
+"auto": "C",
+"open": "否",
+"sota": "有",
+"note": "评估 LLM 对比人类医师的推理表现，非提出算法/模型；以医师作为对照即人工评估，临床病例不公开"
+},
+"10.1016/j.landig.2026.101007": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "MerMED-FM无任何公开链接,数据需向作者申请"
+},
+"10.1109/tpami.2025.3643453": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RingMoE github含数据集仓库,23个基准六大遥感任务超现有基础模型"
+},
+"10.1109/tpami.2026.3665645": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "RAR无代码链接;WebQSP/CWQ公开基准,Hit 93.3%/91.0%对比19基线"
+},
+"10.1109/tpami.2026.3721108": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DeepForgeSeal无链接;CelebA/CelebA-HQ公开,提升4.5%"
+},
+"10.1109/tpami.2026.3663547": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DREAM基准github公开,深伪真实感评估,与IQA/VQA方法系统对比"
+},
+"10.1038/s41586-026-10675-5": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "MIRA github Dyke-F+MIMIC-IV PhysioNet,LLM-judge;诊断准确率超医师"
+},
+"10.1038/s41586-025-08829-y": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "fnn/foundation github三仓库公开,但数据来自自采小鼠视皮层记录(湿实验115)"
+},
+"10.1038/s41551-025-01516-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "基于STAMP开源软件+Zenodo模型,TCGA/CPTAC公开,CONCH+Virchow2集成在55%任务胜出"
+},
+"10.1038/s41467-025-66507-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MammoVQA github全公开+CBIS-DDSM/INbreast/MIAS公开,12个LVLM评测"
+},
+"10.1038/s41467-026-75326-9": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SHHS需注册审批;代码仅在Methods描述未见仓库链接"
+},
+"10.1038/s41467-026-69696-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CAMEX github MIT+figshare+Zenodo,scIB基准,跨1-11物种整合超SOTA"
+},
+"10.1038/s41467-026-73610-2": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "LLM-UTP代码Zenodo公开;地铁/出租/共享单车数据来源未明确公开链接"
+},
+"10.1038/s41467-025-62123-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RETFound_MAE github,AIROGS/DDR/ODIR全公开,半数据400倍算力"
+},
+"10.1038/s41467-026-73923-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PathoROB基准HF公开+github BSD-3,Camelyon17公开,UNI2/CONCH权重公开"
+},
+"10.1038/s41467-026-75377-y": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "MLLM-EDR代码Zenodo公开但患者数据严格受控需研究计划申请"
+},
+"10.1038/s41467-025-57215-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CatPred github+Zenodo+CodeOcean,BRENDA/SABIO-RK公开,对标UniKP/DLKcat"
+},
+"10.1038/s42256-025-01126-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PhyE2E github+figshare数据,AI-Feynman数据库公开,符号精度超SOTA"
+},
+"10.1038/s41591-025-04133-4": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SleepFM;SHHS/MESA/MrOS需申请,DCSM/HMC公开,F1 0.68超PhysioEx"
+},
+"10.1038/s41591-024-03445-1": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "投毒攻击研究,MedQA/PubMedQA/MMLU公开;出于安全不释出投毒语料"
+},
+"10.1109/tpami.2026.3681631": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Rein++ github,Cityscapes/ACDC公开,冻结骨干即超多数域泛化方法"
+},
+"10.1093/nsr/nwaf169": {
+"v": "排除",
+"auto": "B",
+"open": "否",
+"sota": "有",
+"note": "文献综述生成；数据集因版权明确不公开，且以 LLM-as-judge + 人评为主"
+},
+"10.1038/s41586-026-10689-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "UCE github两仓库(模型+复现),CELLxGENE/Tabula Sapiens公开,总分超Geneformer 13.9%"
+},
+"10.1038/s41467-025-62825-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github MIT+Dryad数据,超3DMolCSP;晶体手性分离预测"
+},
+"10.1038/s41467-026-73627-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MGT github+Zenodo,JARVIS/QM9/OC20公开,MAE降14%"
+},
+"10.1038/s41467-026-75091-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github含数据与评估代码,ETH/UCY/SDD公开,ADE/FDE降42%/40%"
+},
+"10.1038/s41467-025-64391-1": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "pTBLightNet代码公开但CISM/pTBred数据受数据转移协议限制不公开"
+},
+"10.1038/s41467-025-63846-9": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "HPL代码MIT+Zenodo公开,但LATTICe队列因规模与伦理不公开;TCGA公开"
+},
+"10.1038/s41467-026-71392-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MTDL代码Zenodo公开,MedMNIST 17数据集+HAM10000全公开"
+},
+"10.1038/s41467-025-59092-8": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "GEMS代码Zenodo/github公开,但真实世界队列数据未公开"
+},
+"10.1038/s41467-025-60252-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github,cora/citeseer/OGB/QM9/MoleculeNet全公开,70+任务超消息传递与Transformer基线"
+},
+"10.1038/s41467-026-72030-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CogniDrive github+Zenodo,nuScenes/Waymo公开,多指标超SOTA"
+},
+"10.1038/s41467-025-64511-x": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "AnnDictionary github+figshare数据,LLM-as-judge评估细胞注释"
+},
+"10.1038/s41467-025-58344-x": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "LLaVA-Rad权重全开+CheXprompt指标,MIMIC-CXR需认证;7B超GPT-4V与Med-PaLM M(84B)"
+},
+"10.1038/s41467-026-70180-1": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "ReactionSeek github+Zenodo,ChEMU-2022基线F1 0.968;原始文本受版权限制"
+},
+"10.1038/s41467-025-62235-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "EviDTI github+Zenodo,DAVIS/KIBA公开,超八个SOTA模型"
+},
+"10.1038/s41467-025-67481-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "scDrugMap github+web服务器全部可下载,评测Geneformer/scGPT/scFoundation/UCE"
+},
+"10.1038/s41467-025-56625-z": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "VaDeSC-EHR github+Zenodo公开,但UK Biobank需申请"
+},
+"10.1038/s42256-025-01047-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ChatNT HF权重+代码,Nucleotide Transformer基准新SOTA,一模型解全部任务"
+},
+"10.1038/s42256-025-01153-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "metadesign github+Zenodo检查点与训练数据,量子实验元设计超人类专家"
+},
+"10.1109/tpami.2026.3661049": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "PADG无代码链接;PACS/VLCS/OfficeHome/DomainNet/TerraInc全公开域泛化基准"
+},
+"10.1038/s41586-025-09298-z": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "CRISPR-Cas-Atlas github+Zenodo公开,但活性验证靠湿实验(128处)"
+},
+"10.1038/s41586-026-10303-2": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "通用量表AI评测,MMLU/GSM8K公开;明确要求可LLM自动评分,但自身量表数据链接未抽到"
+},
+"10.1038/s41586-025-08866-7": {
+"v": "待定",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "AMIE对话诊断,MedQA公开;主评估为OSCE模拟病人+PCP对照人评"
+},
+"10.1038/s41586-026-10563-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "HERRO github多仓库,HG002/VGP公开,Merqury QV提升0.3-4.7"
+},
+"10.1038/s41551-025-01413-9": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "DeepRET代码公开但个体患者数据受隐私保护需委员会同意"
+},
+"10.1038/s41467-025-66311-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SCOPE-DTI github Apache-2.0+Zenodo数据集+web服务器,BindingDB/KIBA公开"
+},
+"10.1038/s41467-026-76531-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SAT3D github,14个公开数据集(AutoPET/KiTS/LiTS/MSD/BraTS),Dice客观"
+},
+"10.1038/s41467-026-76071-9": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "github代码公开;HRS/ELSA/LASI/MHAS问卷数据需各国申请,超CatBoost/LightGBM/XGBoost"
+},
+"10.1038/s41467-025-64142-2": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "LINS github+HF模型,MedQA/MedMCQA/PubMedQA全公开,含医生与普通用户人评"
+},
+"10.1038/s41467-026-70554-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "AdaMBind github+Zenodo,BindingDB/DAVIS/KIBA公开,超8个基线尤其少样本"
+},
+"10.1038/s41467-025-64512-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PLM-interact github MIT+HF数据与权重,STRING V12跨物种基准"
+},
+"10.1038/s41467-026-71521-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "宏基因组分箱基准github+Zenodo,神经网络类工具(COMEBin/SemiBin2/VAMB)胜出"
+},
+"10.1038/s41467-025-56261-7": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "NuFold源码+Colab笔记本;RCSB PDB/bpRNA公开,CASP基准"
+},
+"10.1038/s41467-026-74101-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TS-DFM github+Zenodo,Transition1x/RGD1 figshare公开"
+},
+"10.1038/s41467-026-76634-w": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "AbdomenNet权重与代码公开(anonymous.4open.science),但CT患者数据受限"
+},
+"10.1038/s41467-025-66644-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "scGALA github,scIB基准+NASA OSDR公开,批次校正与标签迁移超现有"
+},
+"10.1038/s41467-025-63678-7": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "LLiM预训练数据与代码因商业机密不公开,仅下游任务代码可下"
+},
+"10.1038/s42256-025-01137-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Densing law,DensingLaw-ScalingBench HF公开+OpenCompass评测,MMLU/HumanEval/MBPP"
+},
+"10.1038/s42256-025-01124-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GEMS github,PDBbind无限制下载,CASF基准SOTA"
+},
+"10.1016/j.landig.2025.02.008": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DeepDKD github;视网膜图像队列部分受限,UK Biobank需申请"
+},
+"10.1016/j.landig.2025.100921": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ECTIL github nki-ai,TCGA公开,标注高效TIL评估"
+},
+"10.1053/j.gastro.2025.07.030": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GastroNet-5M数据集开放科研教育用途,17个内镜AI任务全面超现有基础模型"
+},
+"10.1109/tpami.2025.3572846": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MD-GraphNet github,cora/citeseer/ABIDE公开,超GCN/AM-GCN/ES-GNN"
+},
+"10.1109/tpami.2026.3686463": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GSFP无代码链接;cora/citeseer公开但仅报相对提升"
+},
+"10.1109/tpami.2025.3640589": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SuperFlow++ github,11个LiDAR数据集(nuScenes/KITTI/Waymo)公开"
+},
+"10.1038/s41377-026-02347-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "UTAP攻击病理基础模型,Zenodo三数据集+TCGA公开,显著超FGSM"
+},
+"10.1016/j.matt.2025.102263": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "El Agente Q数据在Dataverse,代码链接未明确;成功率客观但含专家知识注入"
+},
+"10.1093/nsr/nwaf255": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Cell-GraphCompass；代码 GitHub + 数据 Zenodo 全开；原为 XML 版信息不全，本次拿到官方 PDF"
+},
+"10.1038/s41586-026-10764-5": {
+"v": "待定",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "AMIE疾病管理,MedQA公开;主评估为患者演员+专科医生人评(10处)"
+},
+"10.1038/s41586-026-10265-5": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "AI-Scientist-v2 github公开,F1自动评分P<0.001;评审含人评但有自动指标"
+},
+"10.1038/s41586-025-09850-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "EchoPrime github echonet+HF权重,23个心脏基准五国独立验证SOTA"
+},
+"10.1038/s41586-026-10644-y": {
+"v": "排除",
+"auto": "B",
+"open": "否",
+"sota": "有",
+"note": "Co-Scientist明确声明源码不公开(与专有基础设施深度集成);验证含湿实验"
+},
+"10.1038/s41586-026-10179-2": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "数据与代码称\"接受后提供\",当前不可获取"
+},
+"10.1038/s41586-026-10658-6": {
+"v": "入选",
+"auto": "A+",
+"open": "是",
+"sota": "有",
+"note": "ERA github google-research,单细胞公开leaderboard超人类最佳方法,COVID预测超CDC集成"
+},
+"10.1038/s41551-026-01740-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PRISM,ACDC/BraTS/AMOS/MSD/ADNI公开,44个基准中39个第一(p<0.001)"
+},
+"10.1038/s41467-024-54956-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github代码+预训练模型+NIRD数据,冰川制图媲美专家标注"
+},
+"10.1038/s41467-025-66049-4": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "PST源码与模型经评审同意公开,病毒基因组公开;代码链接未抽到需查正文"
+},
+"10.1038/s41467-026-72680-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Janus-Pro-CXR github+figshare数据,CheXpert/MIMIC-CXR公开,RadGraph F1 25.8"
+},
+"10.1038/s41467-025-66853-y": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Zenodo存放特征与标签+训练模型,CHIEF/UNI/GigaPath/Virchow2权重公开"
+},
+"10.1038/s41467-025-64712-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GleasonXAI github+figshare标注数据,PANDA公开;明确非追求SOTA但有kappa/dice"
+},
+"10.1038/s41467-026-74122-9": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "github代码+Zenodo特征数据,原始音频受隐私限制;AUC 0.932"
+},
+"10.1038/s41467-025-59439-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "inv-design github含2410个DFT计算数据集,QM9/MoleculeNet公开,对标JANUS遗传算法"
+},
+"10.1038/s41467-025-62308-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RSGPT github+Zenodo权重,USPTO公开,Top-1准确率63.4%大幅超前"
+},
+"10.1038/s41467-026-74120-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MMKD-CLIP github含权重,Kaggle多数据集公开,MRI AUC超GenMedClip 5.46%"
+},
+"10.1038/s41467-026-70509-w": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "TrialMatchAI github+Zenodo,合成TREC基准公开;专家验证>90%但有NDCG/MRR客观指标"
+},
+"10.1038/s41467-025-60577-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RetiZero github,APTOS/DDR/Cataract等Kaggle公开,Top-1超FLAIR 25.5%"
+},
+"10.1038/s41467-025-61037-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SCFF github,MNIST/CIFAR-10/STL-10/TinyImageNet全公开"
+},
+"10.1038/s42256-025-01087-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "KA-GNN github+Zenodo,MoleculeNet公开,精度与效率双超传统GNN"
+},
+"10.1093/nar/gkag083": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "OmniNA github+Zenodo,NCBI预训练数据公开,23个基准SOTA或competitive"
+},
+"10.1016/j.landig.2025.01.001": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "儿科先心病 ECG 队列为医院私有，无公开测试集，无法复现对比"
+},
+"10.1016/j.landig.2025.100926": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "NeonatalBERT；训练/内部验证用 MIMIC-III(PhysioNet 公开)，外部队列私有；AUPRC 0.360 vs 其他 0.224–0.333"
+},
+"10.1109/tpami.2026.3705256": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VIAT github,ImageNet公开,ResNet-50抗对抗视角准确率提升50.63%"
+},
+"10.1038/s41551-025-01598-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BioPathNet github+TxGNN,PrimeKG公开知识图谱,MRR/NDCG客观"
+},
+"10.1038/s41467-025-56321-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github,FastMRI/fastMRI+公开,脑影像异常检测规范表征评测"
+},
+"10.1038/s41467-026-71035-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GP-WAITER github Apache+Zenodo六个作物数据集,准确率提升达77.5%超7个SOTA"
+},
+"10.1038/s41467-025-64972-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ERNIE-RNA github+RNA3DB-2D管线,零样本超RNAfold/RNAstructure"
+},
+"10.1038/s41467-025-60878-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SE-adlif github CC BY-SA,SHD/SSC/QTDB全公开CC许可,超LIF网络"
+},
+"10.1038/s41467-025-58551-6": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "SourceCheckup github+Google Drive开放数据,自动化引文核查;GPT-4o仅70%有效URL"
+},
+"10.1038/s41928-026-01653-w": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "AI-Agents-for-LCA github,超SOTA LLM/VLM;含专家对照但有MAE/F1客观指标"
+},
+"10.1038/s42256-025-01084-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "semanticlens github开源工具箱+Zenodo,ImageNet/ISIC公开"
+},
+"10.1038/s42256-026-01279-9": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "爵士乐指纹,声明释出开源实现与检查点但链接未抽到;准确率0.944"
+},
+"10.1038/s41591-026-04497-1": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "NeuroVFM github MLNeurosurg,ABIDE/ADNI/BraTS公开,报告生成超前沿模型"
+},
+"10.1038/s41591-026-04502-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "COMPASS github mims-harvard,TCGA/GDC公开,16个免疫治疗队列SOTA,HR=4.7"
+},
+"10.1093/nar/gkaf533": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DSRNAFold源码与全部数据集Zenodo公开+web服务器,F1 0.627超Sincfold/UFold"
+},
+"10.1109/tpami.2026.3689721": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Differentiable-Task-Graph-Learning github,Assembly101在线错误检测提升19.8%/6.4%"
+},
+"10.1109/tpami.2026.3683788": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "label-hierarchy-transition github,统一代码库对比C-HMCNN/HRN/FGoN,ImageNet/ISIC公开"
+},
+"10.1109/tpami.2026.3680873": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DynaPURLS github,NTU RGB+D 60/120与PKU-MMD公开,零样本骨架动作新SOTA"
+},
+"10.1038/s41586-026-10176-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Evo 2全开源:权重+训练代码+推理代码+OpenGenome2数据集(HF),跨生命域基因组建模"
+},
+"10.1038/s41467-025-63812-5": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "EC-DL github代码公开;内镜多中心影像仅Source Data,超内镜医师"
+},
+"10.1038/s41467-026-69578-8": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "CBSI github开源+样本子集,余数据不可公开;AUC 81.31%,BraTS公开"
+},
+"10.1038/s41467-025-56784-z": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "renal github Apache-2.0;仅TCIA队列可下载,超七位资深放射科医师均值"
+},
+"10.1038/s41467-026-72246-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DDA-BERT github含权重与容器+Zenodo,PRIDE/iProX公开,肽鉴定提升2.24-269%"
+},
+"10.1038/s41467-025-68228-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Intelligent-Throat github+Zenodo代码与数据集,token级超传统时窗方法"
+},
+"10.1038/s41467-026-72378-9": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "CIPHER github,WebArena/SQuAD公开;含LLM-judge与Elo,制造业混合推理"
+},
+"10.1038/s41467-026-69185-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "EPT github+Zenodo,GEOM/PCQM4Mv2/PDBbind/QM9全公开,LBA预测超现有"
+},
+"10.1038/s42256-025-01122-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CytoDiffusion github+Zenodo,异常检测AUC 0.990对比判别式0.916,域偏移0.854对0.738"
+},
+"10.1038/s42256-024-00975-8": {
+"v": "入选",
+"auto": "A+",
+"open": "是",
+"sota": "有",
+"note": "SakanaAI进化式模型融合,github+HF数据集全公开,日语数学LLM达SOTA超更大模型"
+},
+"10.1038/s41591-026-04371-0": {
+"v": "待定",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "多模态AMIE:SCIN/PAD-UFES-20/PTB-XL/ECG-QA公开但主评估为18位专科医师盲评"
+},
+"10.1093/nar/gkae1310": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GENA-LM github AIRI+HF全系列权重开源,长序列DNA语言模型"
+},
+"10.1038/s41586-025-09529-3": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Delphi-2M github gerstung-lab公开;UK Biobank需申请,多病预测匹配或超单病风险模型"
+},
+"10.1038/s41586-025-09227-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "EchoNext github两仓库,承诺随发表释出10万患者去标识子集,超心脏科医师"
+},
+"10.1038/s42256-024-00956-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BOTNet github+Zenodo数据,对标NequIP/MACE,等变原子间势设计空间"
+},
+"10.1038/s42256-025-01148-x": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Exai-1预训练模型与cfRNA矩阵Zenodo公开,其余数据需申请;R2 0.89超基线0.57"
+},
+"10.1109/tpami.2026.3708244": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "EAR-Net无代码链接;三个公开数据集,对标IRLS-l1/HARA/RAGO"
+},
+"10.1109/tpami.2025.3625859": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "重力启发时空 Transformer；六个大规模人类活动数据集疑为运营商信令数据，未见公开渠道，RMSE/R2 客观但测试集拿不到"
+},
+"10.1109/tpami.2025.3576209": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SEE框架无代码链接;四个ISCOS任务(半监督伪装/透明目标检测)"
+},
+"10.1038/s41467-025-62098-x": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "FNQS架构HF公开可在NetKet实现;数据需向作者索取,对标QMC"
+},
+"10.1038/s41467-026-74299-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Deflex github含生成数据集,对标gplearn等公式发现方法"
+},
+"10.1038/s41467-025-61116-2": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "FEMI github+HF权重公开;胚胎时序影像受隐私限制,BELA AUC 0.76超人工评分"
+},
+"10.1038/s41467-025-62708-8": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "代码Code Ocean MIT公开+MP-20公开;流式CSG模块匹配率与速度SOTA"
+},
+"10.1038/s41467-026-72506-5": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "量子处理器预测代理,无代码与数据链接"
+},
+"10.1038/s41467-025-57536-9": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GraphBAN github+Zenodo,BindingDB/BioSNAP/KIBA/PDBbind公开,超十个基线"
+},
+"10.1038/s41467-026-71196-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github+HF数据集与检查点,UK Biobank需申请但主体公开"
+},
+"10.1038/s41467-026-73164-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TraceBind github,GEO数据全公开,足迹恢复超次优方法10%"
+},
+"10.1038/s42256-025-01083-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "INRTracker github+Zenodo,nuScenes/Waymo公开,免训练超AB3DMOT/CenterTrack"
+},
+"10.1093/nar/gkaf223": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Methyl-GP github+Zenodo,17个基准数据集公开,超iDNA-MS/Deep6mA/BERT-6mA"
+},
+"10.1093/nar/gkae1168": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Modena github+Zenodo五个数据集,新建12个基准,六中五显著超无监督算法"
+},
+"10.1109/tpami.2025.3558092": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ConFill 图像补全；ImageNet/Places 公开，FID/LPIPS 客观；另有小规模 user study 非主判据"
+},
+"10.1109/tpami.2025.3582796": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "h-Calibration github,ImageNet公开,标准后校准基准SOTA"
+},
+"10.1038/s43018-025-01060-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SMMILe github+HF数据集,TCGA/Camelyon公开,对标九个方法两种编码器"
+},
+"10.1038/s41467-025-65114-2": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "EqGPT github含代码与数据+Zenodo,从数学手册生成式发现偏微分方程"
+},
+"10.1038/s41591-024-03329-4": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "代码处于专利保护不可公开,影像数据因隐私不公开"
+},
+"10.1093/nar/gkaf138": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "scMultiomeGRN；10x Genomics PBMC + Human Cell Atlas 公开数据；对比 DeepTFni/GENELink/scMTNI 等已发布代码"
+},
+"10.1093/nar/gkaf416": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DEMO-EMol；cryo-EM 图谱基准可从 EMDB 取，TM-score 客观；数据可得性仅给 web server"
+},
+"10.1093/nar/gkaf1314": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "github多仓库+ENA PRJEB74238公开,RNA004对比RNA002化学"
+},
+"10.1109/tpami.2026.3693569": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GAP-STGNN github,多变量时序对标Informer/Autoformer等SOTA"
+},
+"10.1109/tpami.2025.3622041": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "LLF-LUT github(称将公开);实时高分辨率照片增强,对标SOTA"
+},
+"10.1038/s41467-025-66889-0": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "AdaSlide demo版github+Zenodo,TCGA/CPTAC公开;VQVAE超全部方法"
+},
+"10.1038/s41467-026-70528-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FineST github Python包+Zenodo,10x Genomics VisiumHD/Xenium公开"
+},
+"10.1038/s41467-025-57148-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Seq2Symm github microsoft+Zenodo含notebook,AUC-PR 0.47/0.44/0.49超模板法与深度学习法"
+},
+"10.1038/s41467-026-68873-8": {
+"v": "待定",
+"auto": "C",
+"open": "否",
+"sota": "有",
+"note": "人机协作试验预筛,数据来自赞助方学术合作不公开,无模型代码仓库"
+},
+"10.1038/s41467-025-62261-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DMS-Fold github+HF数据集+Zenodo权重,88%蛋白靶点超AlphaFold2"
+},
+"10.1038/s42256-026-01201-3": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "MIDAS github,单细胞/HLA-peptidomics/GWAS公开;但验证依赖患者来源肿瘤外植体(湿实验64)"
+},
+"10.1186/s40168-025-02080-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MIOSTONE；代码 GitHub 公开且明示\"所有评测用公开数据集均可获取\"，AUPRC 超次优 XGBoost 3.5%、超 MDeep 3.8%（十个数据集）"
+},
+"10.1093/nar/gkag625": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SSNet github含训练模型,Gencode/GTEx/Pangolin公开,超SpliceAI"
+},
+"10.1038/s41392-025-02374-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ProgPath github含权重与示例数据,TCGA/CPTAC公开,对标MCAT/MOTCat/SurvPath"
+},
+"10.1038/s41467-025-67348-6": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DR-FREE;MuJoCo/Atari公开环境,代码在正文声明但链接未抽到;SOTA模型失败处仍能完成任务"
+},
+"10.1038/s41467-026-70873-7": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "类比引导LLM,250次试验数据与Python实现声明公开但无仓库链接;偏行为实验"
+},
+"10.1038/s41467-025-64233-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "集群编队优化,MATLAB实现github+Zenodo,异质参数收敛快20-40%"
+},
+"10.1038/s41591-025-03780-x": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "EAGLE github+HF权重,TCGA公开;四家医院临床数据按机构政策不公开"
+},
+"10.1093/nsr/nwag344": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "统一湍流模型,源码与训练数据集github全公开,超现有湍流模型"
+},
+"10.1093/nar/gkaf836": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "模型与脚本bitbucket+figshare公开,对标HUMAnN(极端环境仅注释0.2%读段)"
+},
+"10.1093/nar/gkaf748": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "iDeepB；ENCODE 225 套 eCLIP-seq 全公开，相关系数/AUC 客观"
+},
+"10.1093/nar/gkaf233": {
+"v": "排除",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "密码子优化；核心结论靠细胞内表达量湿实验验证，AI 无法自动化评估"
+},
+"10.1038/s41551-025-01488-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GPFM病理基座;github含权重,TCGA/CAMELYON/PANDA公开;主评AUC/C-index客观,报告生成有少量人评"
+},
+"10.1038/s41551-025-01602-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "spEMO空间多组学;github+数据全公开无限制;AUC/C-index/F1客观;临床摘要部分需人评"
+},
+"10.1016/j.landig.2025.100943": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "CARDBiomedBench;HF含train/test划分,测试集约1万条;LLM-as-judge需固定评判模型;18个LLM横评"
+},
+"10.1016/j.landig.2025.100953": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RareArena罕见病;HF数据集公开;accuracy/top-k客观;人评仅10例做数据质检"
+},
+"10.1109/tpami.2025.3598206": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "EA-HAS-Bench能耗感知NAS;称开源但全文无直达仓库链接;ImageNet+自建代理模型;需确认基准可下载"
+},
+"10.1109/tpami.2026.3664091": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "OAR图神经网络解释评估;github公开;相关系数客观;另有100人user study但非主评"
+},
+"10.1109/tpami.2026.3708591": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "Industrial Brain;全文0链接,八个基准数据集未给出处,私有工业数据"
+},
+"10.1038/s41591-025-03726-3": {
+"v": "排除",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "DeepSeek医疗横评;主判据是医师Likert评分(人评词频21),无法自动化"
+},
+"10.1038/s41591-025-03900-7": {
+"v": "排除",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "EyeFM随机对照试验;44位眼科医师reader study为主评,人评31硬件9"
+},
+"10.1038/s41586-025-08675-y": {
+"v": "排除",
+"auto": "C",
+"open": "否",
+"sota": "无",
+"note": "多模态医学影像生成AI综述性文章;0链接,无自建基准与可对比SOTA"
+},
+"10.1038/s41586-025-09079-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Ark+胸片全开放基座;github/kaggle/figshare多链接;CheXpert/MIMIC-CXR/NIH公开;AUC客观"
+},
+"10.1126/science.adz4351": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Biomni自主生物医学agent;github+HF权重公开;HLE等公开基准,57%vs基线30%;湿实验仅案例展示非主评"
+},
+"10.1016/j.cell.2025.06.008": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "无",
+"note": "Virtual Cell Challenge是赛事公告类文章,0链接,无自身SOTA成绩"
+},
+"10.1158/2159-8290.cd-25-1735": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MutationProjector癌症基因型基座;github公开,药物基因组数据全部可公开获取;AUPRC0.84超基线"
+},
+"10.1038/s41551-025-01365-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RETFound-DE;kaggle/github/figshare多链接;AUROC带95%CI且显著优于RETFound"
+},
+"10.1038/s41551-025-01497-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MedSegX通用医学分割;HF数据库MedSegDB+github代码;Dice/IoU客观"
+},
+"10.1038/s41551-025-01544-z": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "MedMPT呼吸疾病视觉语言;NLST/MosMedData公开但医院数据受限;AUROC客观"
+},
+"10.1038/s41551-025-01565-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GaitDynamics步态生成基座;github+AddBiomechanics公开数据;力估计误差客观"
+},
+"10.1038/s41551-025-01608-0": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Prima神经影像;模型参数MIT开放,原始MRI受限;ABIDE/ADNI/BraTS/UKB公开;AUC92.0%"
+},
+"10.1038/s41551-026-01662-2": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "OCTCube三维OCT基座;github+HF权重公开,自有OCT数据受限;AUROC客观"
+},
+"10.1038/s41551-026-01666-y": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "NeuroSTORM功能MRI;github公开;UKB/ABCD/HCP/ABIDE需申请但可获取;五任务客观指标"
+},
+"10.1038/s41551-026-01736-1": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "BoneCoT骨转移;代码公开但个体级患者数据明确不公开,26个任务全部来自私有医院队列"
+},
+"10.1016/j.landig.2025.03.001": {
+"v": "排除",
+"auto": "C",
+"open": "否",
+"sota": "有",
+"note": "鼻咽癌内镜检测;0数据链接,含9处人评reader study,临床私有数据"
+},
+"10.1016/j.landig.2025.100966": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "肝移植委员会多agent模拟;代码公开但评测用院内病例,测试集不公开"
+},
+"10.1016/s2589-7500(24)00245-0": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "室缺自愈预测;0链接,临床队列数据不公开"
+},
+"10.1038/s43018-025-01041-x": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "MRI-PTPCa前列腺癌;代码github无限制,PI-CAI公开挑战集+四家私有队列;concordance客观"
+},
+"10.1038/s42256-025-00994-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "LLM4SD分子性质;github+预划分数据集全开源;MoleculeNet/QM9;AUC/RMSE客观"
+},
+"10.1038/s42256-025-01027-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DSCF光谱基座;figshare数据+zenodo代码全开源;五任务11数据集"
+},
+"10.1038/s42256-025-01078-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SkySense++遥感;github+zenodo基准;12任务mIoU+1.69%/mF1+0.50%具体增量"
+},
+"10.1038/s42256-026-01197-w": {
+"v": "排除",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "ActiveBraid具身神经形态基准;需自建实体机器人(CAD/Gerber),硬件在环无法自动化"
+},
+"10.1109/tpami.2024.3522258": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Adam-NSCL-SSL增量学习;无代码链接但CIFAR/ImageNet等标准增量基准公开"
+},
+"10.1109/tpami.2025.3527469": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CamoDiffusion伪装/显著目标检测;github公开;COD10K等三基准公开;MAE/S-measure客观"
+},
+"10.1109/tpami.2025.3535538": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VMarker-Pro三维人体网格;github公开;SURREAL/H3.6M/COCO公开;MPJPE客观"
+},
+"10.1109/tpami.2025.3548148": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DExNet单图反射去除;无代码链接,四个反射去除公开基准;PSNR/SSIM客观,仅用8%参数量"
+},
+"10.1109/tpami.2025.3557498": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ESSENCE-Net光度立体;github公开;DiLiGenT/DiLiGenT10^2/DiLiGenT-Pi公开基准"
+},
+"10.1109/tpami.2025.3560762": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CBWF约束优化;github公开;ACOPT数据集;目标值与约束违反度客观"
+},
+"10.1109/tpami.2025.3562651": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "交互式对话头生成;ViCo/ViCo-X无直达链接,指标仅kappa/r2且含20人user study,需确认自动化程度"
+},
+"10.1109/tpami.2025.3573785": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "MMDG++多模态人脸反欺骗;代码称将发布;CASIA-SURF等公开FAS基准;AUC/HTER客观"
+},
+"10.1109/tpami.2025.3574354": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "AdaGCL+图对比学习;github公开;OGB公开基准;节点分类准确率客观"
+},
+"10.1109/tpami.2025.3576851": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Flow-Anything光流;无代码链接,KITTI/Sintel/DAVIS/Cityscapes公开;EPE客观"
+},
+"10.1109/tpami.2025.3590784": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "PointLLM-V2点云理解;github公开;含GPT-judge与人评,需固定评判模型;win rate"
+},
+"10.1109/tpami.2025.3594360": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SEMI-CAVA半监督;仅openreview链接无代码仓库;ISIC等七个公开医学数据集"
+},
+"10.1109/tpami.2025.3598138": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Actionlet骨架自监督;无代码链接,NTU-RGB+D等公开基准;动作识别准确率客观"
+},
+"10.1109/tpami.2025.3618991": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "数据集相似度选参;无代码链接,30个真实数据集;超越超参搜索基线"
+},
+"10.1109/tpami.2025.3645279": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DILA图神经网络可解释;github公开;六个常用图数据集;可解释性指标客观"
+},
+"10.1109/tpami.2026.3664873": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MC# MoE混合压缩;zenodo链接;MMLU/GSM8K/HumanEval/C4等大量公开基准;困惑度与准确率客观"
+},
+"10.1109/tpami.2026.3672465": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "StarIR图像复原;github公开;21个数据集6类退化任务(Rain100/GoPro/SIDD等公开);PSNR/SSIM客观"
+},
+"10.1109/tpami.2026.3674763": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CDLT细粒度概念漂移长尾;自建数据集已在github释出;top-1/top-5客观"
+},
+"10.1109/tpami.2026.3680437": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GSSC状态空间图学习;github公开;11个公开图基准,5个取得最佳"
+},
+"10.1109/tpami.2026.3694189": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "EVA越狱防护;无代码链接,用MT-Bench/GSM8K/MMMU/SQuAD等公开基准;ASR客观但通用能力评估含LLM-judge"
+},
+"10.1109/tpami.2026.3713184": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "BRFedTD拜占庭鲁棒联邦强化学习;无代码链接,MuJoCo公开环境可复现;收敛回报客观"
+},
+"10.1109/tpami.2026.3718926": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MRMP多轮元学习净化标签;github公开;CIFAR/CIFAR-N/Clothing-1M公开"
+},
+"10.1038/s41467-026-73817-3": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Cross-Unet光伏功率预测;HF数据集AI-PVOD+github代码;DKA Solar公开数据;MAE/RMSE客观"
+},
+"10.1038/s41467-026-75508-5": {
+"v": "待定",
+"auto": "A",
+"open": "是",
+"sota": "无",
+"note": "物理约束结构响应基座;figshare含数据与代码,但全文未见与既有方法的可对比SOTA数值,需核对表格"
+},
+"10.1038/s41467-026-75972-z": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "基因集功能假设统计检验;HF模型+github,数据全公开;七个嵌入模型横评"
+},
+"10.1038/s41467-026-76004-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "病理基座模型基准研究;github(MIT许可)+zenodo;TCGA/CPTAC公开;AUROC/AUPRC客观"
+},
+"10.1038/s41591-024-03416-6": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "MedFound通用医学诊断LLM;github+HF权重;MIMIC/physionet;含大量专家评估需固定评判标准"
+},
+"10.1038/s41591-026-04252-6": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "无",
+"note": "临床环境模拟器;0链接无代码无数据,属观点/框架性文章,无自身可对比成绩"
+},
+"10.1016/j.ccell.2026.01.019": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "KEEP病理视觉语言基座;HF权重+数据集+kaggle多链接;18个公开基准14000+WSI;敏感度0.898@0.95特异度"
+},
+"10.1200/jco-24-01501": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DINOPath预后基座;无代码链接,TCGA公开+院内队列;对比CTransPath/UNI/GigaPath/Phikon/Virchow;C-index客观"
+},
+"10.1016/j.xinn.2026.101538": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GW-Eyes引力波对应体关联agent;github公开代码,警报数据公开;准确率/召回客观"
+},
+"10.1016/j.jhep.2026.06.042": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "CIRI肝失代偿预测;数据仅\"合理请求可得\",无公开测试集"
+},
+"10.1016/j.landig.2025.02.003": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "无",
+"note": "单帧射血分数估计;0链接,无公开基准,无可对比SOTA"
+},
+"10.1016/j.landig.2025.100896": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "METRIC-AF房颤预测;MIMIC-IV/physionet需认证但可获取;外部验证超既有模型"
+},
+"10.1016/j.landig.2025.100955": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "无",
+"note": "HGSOC分割+影像组学预后;github代码公开,TCIA公开;但只做内部模型比较,未见与既有方法的SOTA对比"
+},
+"10.1016/j.landig.2025.100962": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "视网膜眼底疾病发病预测图谱;三个github仓库;UK Biobank需申请可获取;C-index对比ConvNeXt基线"
+},
+"10.1016/j.landig.2025.100971": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "nAMD视力预后深度学习;0链接,院内数据不公开"
+},
+"10.1016/j.landig.2025.100977": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GMAP胶质瘤分子分型;TCGA公开+12个私有队列;超过多数既有MIL方法;AUC客观"
+},
+"10.1016/s2589-7500(24)00243-7": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "无",
+"note": "DL-SpiQA放疗质控;github代码公开,TotalSegmentator公开;但为部署型质控工具,未报可对比SOTA且仍需临床复核"
+},
+"10.1136/gutjnl-2025-337945": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "肝癌token引导多模态预后;TCGA公开+JLU队列需申请;C-index/AUC对比传统Cox与简单DL模型"
+},
+"10.1038/s42256-025-01030-w": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DiffSMol形状条件三维分子生成;github公开;MOSES+CrossDocked2020公开;成功率61.4%对最佳基线11.2%"
+},
+"10.1038/s42256-026-01266-0": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DeepEvidence生物医学知识图谱agent;HF测试集公开+github;HLE-Medicine 40.0% vs Biomni 20.0%/GPT-5 3.3%"
+},
+"10.1109/tpami.2023.3303451": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TIGV视频问答不变性;github公开;Causal-VidQA/NExT-QA公开;准确率客观"
+},
+"10.1109/tpami.2024.3386695": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ETPNav连续环境视觉语言导航;github公开;R2R-CE/RxR-CE公开;SR/SPL较前SOTA+10%/+20%"
+},
+"10.1109/tpami.2024.3479222": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "V2X-ViTv2车路协同感知;无代码链接,V2XSet/OPV2V公开;mAP较基线+5.8%"
+},
+"10.1109/tpami.2024.3495831": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Hi-SAM层次文本分割;github+HierText公开;Total-Text 84.86% fgIOU"
+},
+"10.1109/tpami.2024.3507918": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "NAS-PED行人检测架构搜索;github公开;CrowdHuman/CityPersons公开;MR^-2 +4.0% AP +1.9%"
+},
+"10.1109/tpami.2025.3529517": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "BossNAS++自监督块级架构搜索;无代码链接,ImageNet/CIFAR-100公开;83.2% top-1超DeiT-B 1.4%"
+},
+"10.1109/tpami.2025.3535730": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "广义条件相似性学习;0链接且未明确数据集出处,仅内部方法间比较,需确认基准可得性"
+},
+"10.1109/tpami.2025.3540310": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "COIN对流扩散网络;github公开;Cora/Citeseer/Pubmed/Planetoid公开;准确率客观"
+},
+"10.1109/tpami.2025.3541028": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "像素不一致性篡改定位;仅openreview链接;CASIA/COCO等公开取证基准;F1/MCC/IoU/AUC客观"
+},
+"10.1109/tpami.2025.3541207": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GAN-DA域自适应;无代码链接,Office-31/Office-Home等公开;27个跨域任务超24个DA方法"
+},
+"10.1109/tpami.2025.3543211": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "提示式自由方向知识蒸馏GNN;无代码链接,Cora/Citeseer等五个公开基准"
+},
+"10.1109/tpami.2025.3546223": {
+"v": "待定",
+"auto": "A",
+"open": "是",
+"sota": "无",
+"note": "MOVE模型所有权验证;github公开,CIFAR/ImageNet公开;但全文未抽到与既有方法的可对比SOTA数值"
+},
+"10.1109/tpami.2025.3548704": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CDTR弱监督目标定位;github公开;CUB-200-2011/ILSVRC公开;有明确SOTA对比表"
+},
+"10.1109/tpami.2025.3549300": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BatchFormer样本关系学习;github公开;CIFAR-100-LT/ImageNet/COCO公开;与Balanced-Softmax/RIDE/PaCo正交叠加"
+},
+"10.1109/tpami.2025.3550281": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "可变形图Transformer;无代码链接,OGB/Cora/Citeseer/Reddit公开;8个数据集全面超越"
+},
+"10.1109/tpami.2025.3552132": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Diff9D扩散式九自由度位姿;github公开;REAL275/CAMERA25公开;域泛化SOTA"
+},
+"10.1109/tpami.2025.3553129": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GPC图提示聚类;github公开;多个图级公开基准;聚类精度客观"
+},
+"10.1109/tpami.2025.3553485": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GDRNPP物体位姿;github公开;BOP Challenge公开榜单连续两年第一,可比性极强"
+},
+"10.1109/tpami.2025.3554669": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "LaNS车辆路径邻域搜索;无代码链接,CVRP/MDVRP标准公开基准;解质量客观"
+},
+"10.1109/tpami.2025.3560327": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "V2Xverse协同自动驾驶;github公开仿真平台;KITTI/nuScenes/CARLA;驾驶分+62.49%,行人碰撞率-53.50%"
+},
+"10.1109/tpami.2025.3566593": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "WS3D++三维视觉语言弱监督;无代码链接,S3DIS/SemanticKITTI/nuScenes公开;mIoU客观"
+},
+"10.1109/tpami.2025.3573054": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Advanced-DMT协同显著性检测;github公开;CoCA/CoSOD3k/Cosal2015公开;与十个SOTA方法对比表"
+},
+"10.1109/tpami.2025.3583090": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "自监督多光源色彩恒常性;无代码链接,Nikon/Cube+等公开基准;角度误差客观"
+},
+"10.1109/tpami.2025.3584928": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "BiVM二值化视频抠图;无代码链接,VideoMatte240K等公开;超越现有二值化方法"
+},
+"10.1109/tpami.2025.3592901": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "GradBias文生图偏见归因;github公开;COCO;含user study与LLM判定,需固定评判模型"
+},
+"10.1109/tpami.2025.3595613": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "实例相关转移矩阵估计;仅openreview链接;CIFAR-N/Clothing1M公开;分类准确率客观"
+},
+"10.1109/tpami.2025.3596054": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DREAM图域自适应;无代码链接,OGB/MoleculeNet公开;与SOTA方法对比但摘要未给具体增量"
+},
+"10.1109/tpami.2025.3598461": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SCI分子性质鲁棒预测;github公开+GOOD基准;21个主流数据集;AUC/RMSE客观"
+},
+"10.1109/tpami.2025.3603653": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "多模态交互数字孪生角色数据集与基线;无自有数据集直链;评分含GPT-4与人工标注(kappa 0.525/0.488)"
+},
+"10.1109/tpami.2025.3621250": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "因果干预提示调优OOD泛化;无代码链接,ImageNet系列OOD基准公开"
+},
+"10.1109/tpami.2025.3621326": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Hier-EgoPack第一视角视频;无代码链接,Ego4D需签协议可获取;超越VSGN/ActionFormer"
+},
+"10.1109/tpami.2025.3624589": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "HORYON开放词表六自由度位姿;仅yolov5链接;REAL275/TOYL等公开;Average Recall较此前最佳+12.6"
+},
+"10.1109/tpami.2025.3627470": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GMC-VRNN轨迹补全;NFL Big-Data-Bowl公开数据+MIMIC-III;MAE/R2客观"
+},
+"10.1109/tpami.2025.3635136": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "VSCode-v2显著/伪装目标统一检测;无代码链接,26个SOD/COD公开数据集刷新SOTA"
+},
+"10.1109/tpami.2025.3640635": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "无",
+"note": "同配边增强GNN;0链接,抽到的SOTA句均为背景陈述,未见自身可对比成绩,需核对表格"
+},
+"10.1109/tpami.2025.3642298": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VPT-NSP2++零空间视觉提示持续学习;github公开;ImageNet/CIFAR;对比L2P系列"
+},
+"10.1109/tpami.2026.3653806": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "ColdNAS冷启动推荐架构搜索;0链接且未点明数据集出处,需确认所用推荐基准可下载"
+},
+"10.1109/tpami.2026.3659598": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "NAP-Tuning对抗鲁棒视觉语言提示;无代码链接,AutoAttack标准评测;ViT-B16/B32分别超最强基线32.3%/31.3%"
+},
+"10.1109/tpami.2026.3664098": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Lamole可解释分子性质;无代码链接,Mutag/Mutagen/PTC-FM公开;解释准确率+14.3%"
+},
+"10.1109/tpami.2026.3664388": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PoundNet AI生成图检测;github代码与数据均公开;泛化相对提升19%"
+},
+"10.1109/tpami.2026.3665728": {
+"v": "待定",
+"auto": "A",
+"open": "是",
+"sota": "无",
+"note": "Bort对齐可逆正则;github公开,ImageNet;但抽到的比较均为自身变体消融,未见与既有方法SOTA对比"
+},
+"10.1109/tpami.2026.3667397": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GG编码器嵌入增强GNN;github公开;Cora/Citeseer公开;准确率较竞争方法提升约10-50%"
+},
+"10.1109/tpami.2026.3670471": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Diff-In数据影响力近似;无代码链接,ImageNet/GSM8K等公开;可扩展到百万级数据剪枝"
+},
+"10.1109/tpami.2026.3672655": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Co-Boosting++单轮联邦学习;github公开;CIFAR/FMNIST等标准联邦基准"
+},
+"10.1109/tpami.2026.3674197": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "ProtoComp++点云补全;无代码链接,PCN/ShapeNet34公开;CD指标客观"
+},
+"10.1109/tpami.2026.3683072": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "无",
+"note": "HCL异质因果图可解释聚类;0链接,主要用合成数据,未指明公开基准也无跨方法SOTA对比"
+},
+"10.1109/tpami.2026.3688692": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "ImagineNav++具身导航;无代码链接,Habitat ObjectNav/InstanceNav公开;成功率SOTA"
+},
+"10.1109/tpami.2026.3690304": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "无",
+"note": "GNN解释的结构分布偏移;0链接,抽到的SOTA句为背景与研究问题陈述,未见自身可对比数值"
+},
+"10.1109/tpami.2026.3704304": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "MVCFS多视图因果特征选择;无代码链接,3Sources等公开;87.06% vs MMMB 85.18%/HITONMB 85.15%"
+},
+"10.1109/tpami.2026.3723878": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "无",
+"note": "SAM2记忆注意力加速;0链接,DAVIS/SA-V公开;但抽到的SOTA句仅为背景介绍,需核对加速比与精度对比表"
+},
+"10.1109/tpami.2026.3724665": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GFGAD图异常检测;无代码链接但基线均用官方代码复现,Amazon/YelpChi等公开;AUC客观"
+},
+"10.1093/nar/gkag706": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "scDifformer虚拟细胞扩散后训练;HF权重公开+多个github;CellxGene/HCA公开;细胞类型注释SOTA"
+},
+"10.1093/nar/gkag478": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DeepCYP代谢预测web服务;仅提供在线服务,测试集不可下载;但对比FAME3/SMARTCyp/BioTransformer3.0,Top-1/Top-2提升超10%"
+},
+"10.1093/nsr/nwag376": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "LucaVirus核苷酸-蛋白统一病毒基座;github+Zenodo权重与训练集全公开;九个下游任务七个最优"
+},
+"10.1093/nsr/nwag500": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "WiFo-2无线通用基座;github含数据集/权重/代码;仅需1%样本在9个无线任务达SOTA,零样本超全监督专用模型"
+},
+"10.1002/anie.202521349": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "无",
+"note": "轴手性描述符预测阻转异构;数据仅\"合理请求可得\",无公开测试集,亦无跨方法SOTA对比"
+},
+"10.1016/s1470-2045(25)00727-2": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "乳腺癌复发风险病理深度学习;zenodo+github代码公开,TCGA公开;对比既有基因组检测"
+},
+"10.1158/2159-8290.cd-25-1323": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "肝癌风险常规临床数据ML;HF spaces可交互,UK Biobank需申请可获取;显著超所有公开SOTA风险评分"
+},
+"10.1016/j.jhep.2026.01.021": {
+"v": "排除",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "HepatoSageCT食管静脉曲张;代码公开但CT与临床数据明确不可公开发布"
+},
+"10.1053/j.gastro.2026.05.023": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "IBDome炎症性肠病图谱;ibdome.org可下载SQLite研究库,原始数据受限;AI评分匹配或超越原始评分体系"
+},
+"10.1016/j.scib.2026.02.028": {
+"v": "排除",
+"auto": "A",
+"open": "是",
+"sota": "无",
+"note": "北半球近地表地下冰图;数据公开可下载,但属制图产出,无模型间可对比SOTA"
+},
+"10.1126/sciimmunol.adx1794": {
+"v": "排除",
+"auto": "C",
+"open": "部分",
+"sota": "有",
+"note": "系统疫苗学AI认知能力评估;主判据为领域专家对LLM输出的人工评判,无法自动化"
+},
+"10.1093/nar/gkag507": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "无",
+"note": "SGGly糖基化位点web服务;仅在线服务无测试集下载;报告MCC0.801但未见与既有工具的可对比结果"
+},
+"10.1093/nar/gkag656": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "DeepAden NRPS底物特异性;Zenodo源码公开+web服务;基准数据集上与SOTA工具可比"
+},
+"10.1093/nar/gkag779": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DNAreader DNA结合残基预测;github+Zenodo+web服务;两个低相似度测试集上统计显著优于现有工具"
+},
+"10.1002/anie.202525729": {
+"v": "排除",
+"auto": "C",
+"open": "否",
+"sota": "无",
+"note": "机器学习引导聚合物正极设计;数据仅请求可得,主体为湿法合成与电化学测试"
+},
+"10.1109/tpami.2025.3591076": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Marigold；代码公开，NYUv2/KITTI/ScanNet 全公开，AbsRel/δ1 客观；零样本迁移达 SOTA"
+},
+"10.1109/tpami.2025.3593283": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "PIIP；代码公开，COCO/ADE20K/ImageNet/VQAv2/TextVQA/POPE/SEED-Bench 全公开"
+},
+"10.1109/tpami.2025.3596160": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "Stereo-Talker；测试集取自公开的 HDTF/TikTok/MVHumanNet（各 10 段），客观指标 LVD/L1/Diversity/FID 有完整跨方法数值；训练集为自采 3,425 段网络视频，不公开；Table 3 的 1–5 主观分仅为补充"
+},
+"10.1109/tpami.2025.3596394": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SCL 视觉-语言预训练；代码公开，COCO/VQA/检索均为标准公开基准"
+},
+"10.1109/tpami.2025.3596597": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "新类发现与定位；对比 RankStats+ 等一众方法，准确率客观"
+},
+"10.1109/tpami.2025.3596623": {
+"v": "待定",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "RAW 视频重建；六款设备数据疑为自采，未见公开测试集"
+},
+"10.1109/tpami.2025.3596878": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "uMedGround；MIMIC-CXR 公开，IoU/mIoU 客观，代码公开"
+},
+"10.1109/tpami.2025.3597938": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "GPT4Point++；点云-文本任务用 CIDEr/BLEU/FID/CLIP 客观指标；含 user study 但非主判据"
+},
+"10.1109/tpami.2025.3599830": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "FCPrompt；代码公开，11 个标准 prompt learning 数据集全公开；超零样本 CLIP 2.36%"
+},
+"10.1109/tpami.2025.3600149": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "DreamStory 故事可视化；美学与一致性以主观为主，人评证据 5 处"
+},
+"10.1109/tpami.2025.3600435": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SKDF 开放世界检测；COCO/PASCAL VOC 公开，mAP 客观"
+},
+"10.1109/tpami.2025.3600461": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ZSCOS-CaMF 伪装目标分割；CAMO/COD10K 公开，Fβ 72.9% 有数值"
+},
+"10.1109/tpami.2025.3601533": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "CeFMC 联邦多视图聚类；标准多视图数据集，ACC/NMI 客观，通信开销降 98.4%"
+},
+"10.1109/tpami.2025.3604039": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BB-TDM 扩散模型；COCO/ImageNet 公开，FID 客观"
+},
+"10.1109/tpami.2025.3604091": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SalViT360 全景音视频显著性；自建 YT360-EyeTracking + 既有 ODV 数据集，CC/NSS/AUC 客观"
+},
+"10.1109/tpami.2025.3604614": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MovieChat+；代码公开，自建 MovieChat-1K 已释出 + Kinetics/SEED-Bench"
+},
+"10.1109/tpami.2025.3607711": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "Combo 协同语音动作生成；人评证据 10 处，FGD/DIV/BC 可自动化但主表含大量主观评分"
+},
+"10.1109/tpami.2025.3608284": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "H2OT；代码公开，Human3.6M/MPI-INF-3DHP 公开，MPJPE 客观"
+},
+"10.1109/tpami.2025.3609962": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ODGEN 检测数据合成；COCO/nuScenes 公开，mAP@.50:.95 提升 25.3% 有数值"
+},
+"10.1109/tpami.2025.3610096": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "GCNet 图多任务；代码公开，MoleculeNet 公开，AUC 客观"
+},
+"10.1109/tpami.2025.3614184": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "mn3DSSR；代码与自建多模态数据集均公开，七个基准客观指标"
+},
+"10.1109/tpami.2025.3616149": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TransFace++；代码公开，LFW/CFP-FP/AgeDB-30/MS1MV2/WebFace42M 全公开"
+},
+"10.1109/tpami.2025.3616854": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CAIT 压缩；ImageNet/COCO/ADE20K 公开，Top-1 与吞吐客观"
+},
+"10.1109/tpami.2025.3618174": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SMPLest-X；代码公开，AGORA/UBody/EgoBody 等七个基准，MPJPE 客观"
+},
+"10.1109/tpami.2025.3619490": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Explicit Visual Prompting；代码公开，五类任务十四个数据集，IoU/F1/MAE 客观"
+},
+"10.1109/tpami.2025.3620954": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RESVO；社会困境序贯博弈环境代码公开，回报值客观，表中 RESVO 全指标最优、LIO>LToS>D3C"
+},
+"10.1109/tpami.2025.3626772": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "AdaGen；引用的 SOTA 句多为超参消融与线性基线，缺跨方法定量对比，需核表"
+},
+"10.1109/tpami.2025.3630505": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "大规模 Logo 检测；对比一/二阶段检测器，AP/APs/APm/APl 客观；自建 logo 数据集未见公开链接"
+},
+"10.1109/tpami.2025.3633453": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MADiff；代码与预训练模型已释出，五个公开手部轨迹数据集，ADE/FDE 客观"
+},
+"10.1109/tpami.2025.3634165": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "HVU；代码公开，MIU/情感识别/室内场景/内容审核四类公开基准，准确率客观"
+},
+"10.1109/tpami.2025.3637265": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Mini-Gemini；代码数据模型全开，MMB 80.6%(+5.4 vs Gemini Pro)、TextVQA 74.1%(+4.6 vs LLaVA-NeXT)"
+},
+"10.1109/tpami.2025.3639595": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "Alliance 遥感基座；micro-mAP 88.59%、macro-mAP 88.67%，较最佳 SatMAE++ 提升 1.18%/0.92%"
+},
+"10.1109/tpami.2025.3641798": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "VISTA-D；代码公开，COIN/CrossTask 公开，SR 超 PDPP 8.10%/6.78%"
+},
+"10.1109/tpami.2025.3642837": {
+"v": "排除",
+"auto": "B",
+"open": "否",
+"sota": "有",
+"note": "ISP 参数调优；论文自陈\"缺乏合适的开源 IQA 数据集\"，测试集为 SONY IMX766 传感器自采的 251 张 RAW（175/76 划分），无法下载；且需真实相机 ISP 管线与人类专家调参作对照"
+},
+"10.1109/tpami.2025.3642893": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "CSOD10K 基准+基线；自建大规模数据集加既有 SOD 基准，MAE/IoU 客观，未见公开链接"
+},
+"10.1109/tpami.2025.3643517": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "类脑持续学习显著性预测；三个基准数据集定量对比，未见代码链接"
+},
+"10.1109/tpami.2025.3644851": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "vMLLM；GQA/MathVista/MMBench/MMMU/POPE/SEED-Bench/TextVQA 全公开，准确率客观"
+},
+"10.1109/tpami.2025.3646737": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Jo-SNC 噪声标签；代码模型公开，CIFAR/Clothing1M/WebVision 标准基准，Top-1 客观"
+},
+"10.1109/tpami.2025.3647504": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Hyper-FM 超图基座；11 个超图数据集含 Cora/OGB，平均超基线约 13.4%"
+},
+"10.1109/tpami.2025.3647707": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BEVTrack；KITTI/nuScenes 公开 + TrackEval 评测工具，定位误差 <0.77m"
+},
+"10.1109/tpami.2025.3647921": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "半监督特征选择；九种缺失比例下在 11–15 个数据集上胜出，准确率客观；数据集未给链接"
+},
+"10.1109/tpami.2025.3647952": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "HUGSIM 闭环驾驶仿真器；KITTI/nuScenes/Waymo 公开，榜单 SOTA，仿真内评估天然可自动化"
+},
+"10.1109/tpami.2025.3650500": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "多智能体多样性探索；SMAC/MuJoCo 公开，胜率客观"
+},
+"10.1109/tpami.2026.3653415": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TextMonkey；代码公开，OCRBench 561 分、场景文字识别 +10.9%（Total-Text/CTW1500/ICDAR2015）"
+},
+"10.1109/tpami.2026.3653768": {
+"v": "待定",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "稀疏脉冲流增强；PSNR/SSIM 客观且给了 0.07–0.22dB 增益，但脉冲相机数据疑为自采，未见公开测试集"
+},
+"10.1109/tpami.2026.3655641": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "LVLM 干扰鲁棒性基准 + RGMR；源码公开，MMBench/MMMU/MMLU 公开，准确率客观"
+},
+"10.1109/tpami.2026.3659125": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "WIN 可逆图像转换；代码公开，COCO/ImageNet/DIV2K，PSNR 客观"
+},
+"10.1109/tpami.2026.3663788": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "RCMCL；代码公开，八个基准数据集各跑五次报均值方差"
+},
+"10.1109/tpami.2026.3663966": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Thermal3D-GS；数据集与代码均公开，PSNR 较基线 +3.19dB"
+},
+"10.1109/tpami.2026.3664863": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DOtA++；代码公开，仿真 OPV2V + 真实 V2V4Real 均公开，mAP 客观"
+},
+"10.1109/tpami.2026.3665736": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "TBFR 盲脸复原+数据集；代码公开，PSNR/LPIPS/FID 客观"
+},
+"10.1109/tpami.2026.3665813": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "CTRL 不完整多视图多标签；七个数据集、十个 SOTA 方法、双缺失率 30%/50% 对比；未见代码链接"
+},
+"10.1109/tpami.2026.3668075": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Winsor-CAM；ImageNet/PASCAL VOC 公开，忠实度指标客观，最差配置也优于 FullGrad"
+},
+"10.1109/tpami.2026.3670856": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "自适应稀疏自注意力超分；DIV2K/DF2K 训练，Set5/Set14/BSD100/Urban100 标准基准，PSNR 客观"
+},
+"10.1109/tpami.2026.3671754": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SFN 夜间去雾；代码承诺公开，合成与真实数据定量对比，PSNR/SSIM 客观"
+},
+"10.1109/tpami.2026.3673141": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SELongVLM；八个基准，VideoMME 65.5%、MLVU 69.8%，超 LongVA 与 Qwen2-VL"
+},
+"10.1109/tpami.2026.3673741": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "CPL 弱监督视觉定位；代码公开，五个数据集准确率 74.58/58.34/60.21/45.23/63.87%"
+},
+"10.1109/tpami.2026.3674357": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "ChatTracker；LaSOT/TrackingNet 等公开，AUC 客观；自评为\"与 SOTA 相当\"而非超越"
+},
+"10.1109/tpami.2026.3674997": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "极线 Transformer 光场超分与视差；HCI/EPFL 等公开光场基准，PSNR 客观"
+},
+"10.1109/tpami.2026.3680569": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MMIO 工业检测基准 + RTVPNet；数据集与代码公开，MMIOC-1M/LVIS/COCO，mAP 客观"
+},
+"10.1109/tpami.2026.3681958": {
+"v": "待定",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "EvaNet 红外可见光融合质量评价；评价对象本身是主观人类偏好，需核实其人评基准是否随文释出"
+},
+"10.1109/tpami.2026.3682684": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MedPLIB；代码公开，医学 VL 多基准 + MMBench/MMMU，Dice/准确率客观"
+},
+"10.1109/tpami.2026.3683517": {
+"v": "待定",
+"auto": "A",
+"open": "是",
+"sota": "无",
+"note": "MARL 值分解目标变换；SMAC 公开、胜率客观，但全文未抽到任何跨方法 SOTA 数值，需核表"
+},
+"10.1109/tpami.2026.3688191": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "漫画矛盾幽默理解基准；选择题部分准确率/F1 客观，描述生成部分靠 LLM-as-judge"
+},
+"10.1109/tpami.2026.3689767": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "MRCNet 视频伪装目标检测；三个数据集，IoU/MAE 与时空一致性指标客观；未见代码链接"
+},
+"10.1109/tpami.2026.3689780": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "R2VLM 医学报告生成；代码公开，MIMIC-CXR/CheXpert 公开，BLEU/CIDEr/F1 客观；放射科医师人评仅为补充"
+},
+"10.1109/tpami.2026.3690447": {
+"v": "入选",
+"auto": "B",
+"open": "是",
+"sota": "有",
+"note": "OmniCharacter++ 角色扮演基准；基准代码公开，主判据为 LLM-as-judge（AI 可自动化），人类专家评估仅用于校准"
+},
+"10.1109/tpami.2026.3690561": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "X-CaVIR 视频意图问答；公开视频 QA 数据集，准确率客观，含对抗集稳定性测试"
+},
+"10.1109/tpami.2026.3691075": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SWAP 零样本网络评估；代码公开，NAS-Bench/ImageNet/GLUE/SQuAD，Spearman 相关客观"
+},
+"10.1109/tpami.2026.3692302": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "SpaceEra++ 视频 3D 空间推理；自建 ScanForgeQA，微调 Qwen2.5-VL/InternVL2，EM/准确率客观"
+},
+"10.1109/tpami.2026.3694999": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "PCL 部分视图对齐多视图聚类；ACC/NMI 客观，对比 InfoNCE 及全部基线；数据集未给链接"
+},
+"10.1109/tpami.2026.3696399": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "CoDA AI 生成图检测；标准基准 + 自建 FakeForm 跨域集，准确率客观（>95% 域内 vs <75% 跨域）"
+},
+"10.1109/tpami.2026.3696843": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "DeSa2VA；代码公开，COCO/GQA/SEED-Bench/RefCOCO，mIoU/Dice 客观"
+},
+"10.1109/tpami.2026.3703974": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "特征空间平面搜索 UDA；DomainNet/Office-Home 公开，准确率客观；未见代码链接"
+},
+"10.1109/tpami.2026.3708185": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "MonSter++；代码公开，KITTI/Middlebury/ETH3D 公开榜单，EPE/D1 客观，实时变体亦超前作"
+},
+"10.1109/tpami.2026.3712056": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "SymBOL 符号回归；代码公开，对比 PySR/SINDy/DSR 等九种方法，R2 客观"
+},
+"10.1109/tpami.2026.3712094": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "FMSGG 场景图生成；Visual Genome/GQA 公开，mean recall 与零样本 recall 客观；未见代码链接"
+},
+"10.1109/tpami.2026.3713771": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "UniNDM；代码公开，覆盖 SDv1.4/1.5/2.1/XL/v3，对比 SLD/UCE/Safree，成功率客观"
+},
+"10.1109/tpami.2026.3718850": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "MADPO；三个 MARL 基准逾 25 个异构场景，胜率客观；未见代码链接"
+},
+"10.1109/tpami.2026.3720232": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "ATR-UAP；Kaggle NIPS2017 对抗数据集 + ImageNet 公开，愚弄率客观，对比 TRM-UAP/PSP-UAP"
+},
+"10.1109/tpami.2026.3720379": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Sa2VA；字节跳动代码公开，DAVIS/RefCOCO/MMBench/MMMU/SEED-Bench，J&F/mIoU 客观"
+},
+"10.1109/tpami.2026.3721163": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "TopoMLP++；OpenLane-V2 公开榜单，OLS/mAP 客观，Table 2 有跨方法对比"
+},
+"10.1109/tpami.2026.3721731": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "EduOCR；数据集与代码均在 GitHub，12 类挑战下对比 HTR/OCR 工具与多模态大模型，准确率客观"
+},
+"10.1109/tpami.2026.3722391": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Consensus-Driven Distillation；代码公开，16 个场景下 SHD/AUC/ACC 全面超原版 SI-GNN"
+},
+"10.1109/tpami.2026.3722524": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "BUFFER-X；MIT-SPARK 代码公开，12 个数据集零样本配准成功率客观"
+},
+"10.1109/tpami.2026.3723656": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "Text2Loc++；KITTI360Pose 公开，top-k 召回客观，较既有方法最高提升 15%"
+},
+"10.1038/s43018-025-00991-6": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41467-025-64430-x": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41467-025-63071-4": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "无",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41467-026-74358-5": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41467-025-67998-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41467-025-64105-7": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s43588-025-00849-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41562-025-02172-y": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s42256-025-01115-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s42256-026-01199-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s42256-026-01188-x": {
+"v": "入选",
+"auto": "B",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41591-026-04494-4": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41592-025-02748-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41592-026-03029-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s44360-026-00152-8": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s44360-026-00112-2": {
+"v": "入选",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s44221-026-00634-9": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-025-01475-8": {
+"v": "入选",
+"auto": "A+",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-025-01550-0": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-025-01647-6": {
+"v": "入选",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-026-02674-7": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-026-02443-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-026-02594-6": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-026-02372-4": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-026-02612-7": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-026-02631-4": {
+"v": "入选",
+"auto": "A",
+"open": "是",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-025-02304-8": {
+"v": "入选",
+"auto": "A",
+"open": "部分",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-025-02324-4": {
+"v": "入选",
+"auto": "A",
+"open": "否",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+},
+"10.1038/s41746-025-02269-8": {
+"v": "入选",
+"auto": "B",
+"open": "否",
+"sota": "有",
+"note": "main/papers 既有语料，三维判定依据 main 表原有 14 列内容回溯"
+}
+}

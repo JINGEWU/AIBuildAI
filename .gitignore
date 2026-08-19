@@ -2,7 +2,7 @@
 ~$*
 
 # ── 本地工作区，不上传 ──
-data/
+data/*
 fulltext/
 fulltext copy/
 arxiv_隔离/
@@ -26,3 +26,9 @@ batch2/~$*
 batch2/*.zip
 batch3/~$*
 batch3/*.zip
+
+# data/ 整体不入库（works_merged.jsonl 等太大），但这三个是人和模型的判断，
+# 程序重算不出来 —— 交付表全靠它们生成，丢了得重判 582 篇、重读 396 篇 PDF。
+!data/verdicts2.json
+!data/extracted.json
+!data/baseline_verdicts.json
