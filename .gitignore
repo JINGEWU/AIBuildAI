@@ -18,7 +18,6 @@ _剔除_*/
 官方全文_整合/
 非官方_隔离/
 fulltext_xml/
-batch2/pdfs/
 
 # 上面的 !batch2/*.xlsx 例外会连 Excel 锁文件一并放行，须在最后再排除一次
 batch2/~$*
