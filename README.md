@@ -134,14 +134,3 @@ python3 pipeline/legacy/reproduce.py import-legacy   # 旧表导入（一次性�
 
 完整说明见 [`pipeline/README.md`](pipeline/README.md)，
 复现侧见 [`pipeline/legacy/README.md`](pipeline/legacy/README.md)。
-
-## 已知问题
-
-- **17 篇「无可对比数值」**：论文未给出可直接对比的跨方法数值，或数值只在图片表格里，
-  程序解析不出来。用 `SOTA可对比性` 列可筛出，接入前需人工核表。
-- **arXiv / IEEE 早期访问版**：IEEE 不做金色 OA，TPAMI 正式排版前只发作者接收稿。
-  这类版本正文完整但非最终排版，各批次 README 列了具体篇目。
-
-## 说明
-
-⚠️ 全文 PDF 受版权保护，通过机构订阅合法获取，仅供内部研究，请勿公开分发。本仓库为私有仓库。
