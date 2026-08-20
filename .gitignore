@@ -44,6 +44,11 @@ batch3/*.zip
 !data/merged_journals.json
 !data/batch3_selected.json
 
+# 一轮判读队列 6.6MB。它是 candidates.jsonl(96MB) 分流出来的，重算要先重抓
+# works_merged.jsonl(499MB)。缺了 screen1 export 出空表，连带 fetch 没有目标清单
+# —— targets() 只认 第一轮筛选结果.xlsx，而那张表正是 export 出的。
+!data/review_queue.jsonl
+
 # 全文信号：理论上 s4 能重算，但要 fulltext/ 那 549 个 PDF（没入库）。
 # 缺了 build 不报错但档位全错（345 篇 S20/A143/B182 → 333 篇 S0/A2/B331）。
 !data/fulltext_digest.jsonl
