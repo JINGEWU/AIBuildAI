@@ -110,6 +110,25 @@ S8 是幂等的——只补缺失、只删已不合格（`--prune`），反复�
 
 IEEE 表格常为图片、Nature 结果常在图里——这两种只能走 `render`。
 
+### 一轮召回的已知盲区（已修）
+
+第一波那批 agent 论文里有 15 篇被 S1 抓到、却没进一轮判读队列。查下来是三个独立成因：
+
+| 成因 | 篇数 | 修法 |
+|---|---|---|
+| `KW_STRONG` 只认 `multi-agent`/`agentic`/`llm-agent`/`agent+{framework\|system}`，漏了 `AI agent`、`language agents`、`embodied agents` | 8 | 补带限定词的 agent 短语 |
+| Nature Water / Nature Health / Nature Human Behaviour 不在 `PRIORITY_JOURNALS`，「高相关期刊+强信号」晋级规则对它们失效 | 2 | 三本刊加入名单 |
+| 信号确实太弱（无 agent 字样、甚至没抓到摘要） | 5 | 未修，见下 |
+
+限定词不能省：裸 `\bagents?\b` 在全库命中 8592 条，绝大多数是化学/医学的「试剂」义
+（contrast agent、antimicrobial agent）；加限定后只剩 399 条。
+
+修完判读队列 2938 → 3062（+124），第一波进队列 39/54 → 49/54，batch2/batch3 无回归。
+
+仍漏的 3 篇合格论文（`LLaMat`、`Bayesian teaching`、`Playing repeated games`）不含任何
+agent/benchmark 关键词，其中一篇连摘要都没抓到。要捞它们得把「高相关期刊+AI信号≥3」
+也放进晋级规则，代价是队列涨到 5206（+2268）换 3 篇——实测性价比不成立，故未采用。
+
 ### 判读环节不假装自动化
 
 S2 / S5 / S7 各有一个需要"读"的环节。pipeline 不把它藏进代码里假装自动，而是显式三段式：

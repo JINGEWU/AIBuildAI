@@ -78,7 +78,14 @@ KW_STRONG = [
  r"\bwe (release|open-?source)\b", r"code and data are (publicly )?available",
  r"\bfoundation model\b", r"\bagent benchmark\b", r"\bevaluation (suite|harness|framework)\b",
  r"\bself-(improv|evolv|verif|refin|correct)", r"\bhuman[- ]expert (level|performance)\b",
- r"\bend-to-end automation\b", r"\bscientific discovery\b"]
+ r"\bend-to-end automation\b", r"\bscientific discovery\b",
+ # 带限定词的 agent 短语。上面只认 multi-agent / agentic / llm-agent /
+ # agent+{framework|system|...}，漏掉了 "AI agent" "language agents"
+ # "embodied agents" 这些最常见的说法 —— 早期那批 agent 论文正因此没进判读队列。
+ # 限定词不能省：裸 \bagents?\b 在全库命中 8592 条，绝大多数是化学/医学的
+ # 「试剂」义（contrast agent、antimicrobial agent），加限定后只剩 399 条。
+ r"\b(ai|artificial intelligence|language|llm|gpt|embodied|conversational|autonomous|"
+ r"software|web|research|scientific|coding|diagnostic)[- ]agents?\b"]
 
 # D. 负向：湿实验 / 硬件 / 人工评测 / 临床试验（用户明确排除）
 KW_NEG = [
@@ -114,7 +121,10 @@ PRIORITY_JOURNALS = {
  "IEEE Journal of Biomedical and Health Informatics", "Bioinformatics",
  "Briefings in Bioinformatics", "Nucleic Acids Research",
  "IEEE Trans. Audio, Speech and Language Processing",
- "IEEE Transactions on Audio Speech and Language Processing"}
+ "IEEE Transactions on Audio Speech and Language Processing",
+ # 这三本 Nature 系刊会发 AI 系统论文，但此前不在高相关名单里，
+ # 「高相关期刊+强信号」这条晋级规则对它们一直失效
+ "Nature Water", "Nature Health", "Nature Human Behaviour"}
 
 # 一轮召回打分权重
 SCORE1 = {"ai": 0.8, "bench": 0.6, "strong": 3.0, "ai_title": 1.5,
