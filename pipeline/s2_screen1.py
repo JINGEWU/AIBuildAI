@@ -35,6 +35,12 @@ def recall():
     w = C.SCORE1
     for r in m.iter_jsonl(src):
         total += 1
+        # 无合法 DOI 的一律不收：整条流水线（去重、抓取、state、交付）都按 DOI 对齐，
+        # openreview:xxx / jmlr:vNN 这类伪 ID 只是碰巧没崩，且 OpenReview 已 403+CAPTCHA
+        # 抓不到全文。少数缺 DOI 的正经期刊文章同理跟踪不了，一并剔除。
+        if not C.RE_DOI.match(str(r.get("doi") or "")):
+            dropped += 1
+            continue
         ti = (r.get("title") or "").strip()
         ab = (r.get("abstract") or "").strip()
         if not ti or C.RE_DROP_TITLE.match(ti) or C.RE_NUMBERED_TITLE.match(ti):

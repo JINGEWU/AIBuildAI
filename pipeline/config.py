@@ -23,7 +23,14 @@ XLSX_EXTRACT  = f"{PAPERS}/agent_papers_SOTA_evaluation.xlsx"
 YEARS = (2025, 2026)
 IF_FLOOR = 15.0          # JCR IF 下限
 # 数据刊/报告刊不收（无 benchmark pipeline）
-JOURNAL_BLOCKLIST = {"Scientific Data", "Scientific Reports"}
+# 合法 DOI 的形状；不满足的进不了候选池（见 s2_screen1.recall）
+RE_DOI = re.compile(r"^10\.\d{4,9}/")
+
+# 不抓：Scientific Data/Reports 是数据/泛刊；JMLR 与 TMLR 不进 Crossref、没有 DOI，
+# 且 TMLR 全文在 OpenReview（已 403+CAPTCHA），抓不到也跟踪不了
+JOURNAL_BLOCKLIST = {"Scientific Data", "Scientific Reports",
+                     "Journal of Machine Learning Research",
+                     "Transactions on Machine Learning Research"}
 
 # ───────────────────────── 外部数据源 ─────────────────────────
 # 说明见 README「数据源现状」——OpenAlex 已转付费，OpenReview 已上 CAPTCHA，均不可用
