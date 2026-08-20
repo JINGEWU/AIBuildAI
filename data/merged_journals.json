@@ -1,0 +1,6212 @@
+[
+ {
+  "name": "CA: A Cancer Journal for Clinicians",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "0007-9235",
+  "issns": [
+   "0007-9235"
+  ],
+  "jcr": 503.1,
+  "oa2y": 232.8,
+  "cnt": 88,
+  "jtype": "综述刊",
+  "field": "肿瘤",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0007-9235",
+  "cr_cnt": 112
+ },
+ {
+  "name": "Nature Reviews Drug Discovery",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1474-1776",
+  "issns": [
+   "1474-1776",
+   "1474-1784"
+  ],
+  "jcr": 122.7,
+  "oa2y": 14.1,
+  "cnt": 387,
+  "jtype": "综述刊",
+  "field": "药物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "1474-1776",
+  "cr_cnt": 400
+ },
+ {
+  "name": "The Lancet",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0140-6736",
+  "issns": [
+   "0140-6736"
+  ],
+  "jcr": 98.4,
+  "oa2y": 19.9,
+  "cnt": 2262,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0140-6736",
+  "cr_cnt": 2452
+ },
+ {
+  "name": "New England Journal of Medicine",
+  "abbr": "",
+  "pub": "MMS",
+  "issn": "0028-4793",
+  "issns": [
+   "0028-4793"
+  ],
+  "jcr": 96.2,
+  "oa2y": 30.3,
+  "cnt": 1626,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0028-4793",
+  "cr_cnt": 1701
+ },
+ {
+  "name": "BMJ",
+  "abbr": "",
+  "pub": "BMJ",
+  "issn": "0959-8138",
+  "issns": [
+   "0959-8138"
+  ],
+  "jcr": 93.6,
+  "oa2y": null,
+  "cnt": 0,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0959-8138",
+  "cr_cnt": 0
+ },
+ {
+  "name": "Nature Reviews Materials",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2058-8437",
+  "issns": [
+   "2058-8437"
+  ],
+  "jcr": 79.8,
+  "oa2y": 33.8,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "2058-8437",
+  "cr_cnt": 190
+ },
+ {
+  "name": "Nature Reviews Clinical Oncology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1759-4774",
+  "issns": [
+   "1759-4774",
+   "1759-4782"
+  ],
+  "jcr": 78.8,
+  "oa2y": 26.8,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "1759-4774",
+  "cr_cnt": 217
+ },
+ {
+  "name": "Nature Reviews Disease Primers",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2056-676X",
+  "issns": [
+   "2056-676X"
+  ],
+  "jcr": 78.5,
+  "oa2y": 35.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "2056-676X",
+  "cr_cnt": 146
+ },
+ {
+  "name": "Nature Reviews Microbiology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1740-1526",
+  "issns": [
+   "1740-1526",
+   "1740-1534"
+  ],
+  "jcr": 69.2,
+  "oa2y": 33.4,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "1740-1526",
+  "cr_cnt": 210
+ },
+ {
+  "name": "Nature Reviews Immunology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1474-1733",
+  "issns": [
+   "1474-1733",
+   "1474-1741"
+  ],
+  "jcr": 67.7,
+  "oa2y": 23.1,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "1474-1733",
+  "cr_cnt": 222
+ },
+ {
+  "name": "Nature Reviews Gastroenterology & Hepatology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1759-5045",
+  "issns": [
+   "1759-5045",
+   "1759-5053"
+  ],
+  "jcr": 65.1,
+  "oa2y": 15.0,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "1759-5045",
+  "cr_cnt": 212
+ },
+ {
+  "name": "JAMA",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "0098-7484",
+  "issns": [
+   "0098-7484"
+  ],
+  "jcr": 63.1,
+  "oa2y": 8.9,
+  "cnt": 3006,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0098-7484",
+  "cr_cnt": 3199
+ },
+ {
+  "name": "Nature Reviews Cancer",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1474-175X",
+  "issns": [
+   "1474-175X",
+   "1474-1768",
+   "1474-1776",
+   "1474-1784"
+  ],
+  "jcr": 60.0,
+  "oa2y": 24.8,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "1474-1776",
+  "cr_cnt": 400
+ },
+ {
+  "name": "Nature Medicine",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1078-8956",
+  "issns": [
+   "1078-8956",
+   "1546-170X"
+  ],
+  "jcr": 58.7,
+  "oa2y": 30.4,
+  "cnt": 1150,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "1078-8956",
+  "cr_cnt": 1267
+ },
+ {
+  "name": "Chemical Reviews",
+  "abbr": "",
+  "pub": "ACS",
+  "issn": "0009-2665",
+  "issns": [
+   "0009-2665"
+  ],
+  "jcr": 51.4,
+  "oa2y": 53.3,
+  "cnt": 364,
+  "jtype": "综述刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0009-2665",
+  "cr_cnt": 446
+ },
+ {
+  "name": "Nature",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "0028-0836",
+  "issns": [
+   "0028-0836",
+   "1476-4687"
+  ],
+  "jcr": 50.5,
+  "oa2y": 18.3,
+  "cnt": 6411,
+  "jtype": "研究刊",
+  "field": "综合",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "0028-0836",
+  "cr_cnt": 7373
+ },
+ {
+  "name": "Nature Reviews Methods Primers",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-8449",
+  "issns": [
+   "2662-8449"
+  ],
+  "jcr": 50.1,
+  "oa2y": 27.5,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "2662-8449",
+  "cr_cnt": 139
+ },
+ {
+  "name": "Nature Energy",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2058-7546",
+  "issns": [
+   "2058-7546"
+  ],
+  "jcr": 49.7,
+  "oa2y": 30.5,
+  "cnt": 412,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "2058-7546",
+  "cr_cnt": 435
+ },
+ {
+  "name": "Cancer Cell",
+  "abbr": "",
+  "pub": "Cell Press",
+  "issn": "1535-6108",
+  "issns": [
+   "1535-6108"
+  ],
+  "jcr": 48.8,
+  "oa2y": 32.5,
+  "cnt": 343,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "1535-6108",
+  "cr_cnt": 366
+ },
+ {
+  "name": "The Lancet Neurology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "1474-4422",
+  "issns": [
+   "1474-4422"
+  ],
+  "jcr": 46.5,
+  "oa2y": 15.4,
+  "cnt": 421,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "1474-4422",
+  "cr_cnt": 499
+ },
+ {
+  "name": "Chemical Society Reviews",
+  "abbr": "",
+  "pub": "RSC",
+  "issn": "0306-0012",
+  "issns": [
+   "0306-0012"
+  ],
+  "jcr": 46.2,
+  "oa2y": 42.0,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0306-0012",
+  "cr_cnt": 699
+ },
+ {
+  "name": "Science",
+  "abbr": "Science",
+  "pub": "AAAS",
+  "issn": "0036-8075",
+  "issns": [
+   "0036-8075"
+  ],
+  "jcr": 44.7,
+  "oa2y": 20.2,
+  "cnt": 3051,
+  "jtype": "研究刊",
+  "field": "综合",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单+IF≥15",
+  "cr_issn": "0036-8075",
+  "cr_cnt": 3372
+ },
+ {
+  "name": "The Lancet Diabetes & Endocrinology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2213-8587",
+  "issns": [
+   "2213-8587"
+  ],
+  "jcr": 44.5,
+  "oa2y": 16.3,
+  "cnt": 298,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "2213-8587",
+  "cr_cnt": 367
+ },
+ {
+  "name": "Nature Reviews Physics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2522-5820",
+  "issns": [
+   "2522-5820"
+  ],
+  "jcr": 44.1,
+  "oa2y": 16.2,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系",
+  "cr_issn": "2522-5820",
+  "cr_cnt": 180
+ },
+ {
+  "name": "Reviews of Modern Physics",
+  "abbr": "",
+  "pub": "APS",
+  "issn": "0034-6861",
+  "issns": [
+   "0034-6861"
+  ],
+  "jcr": 44.1,
+  "oa2y": 32.9,
+  "cnt": 69,
+  "jtype": "综述刊",
+  "field": "物理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15",
+  "cr_issn": "0034-6861",
+  "cr_cnt": 66
+ },
+ {
+  "name": "Electrochemical Energy Reviews",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "2520-8136",
+  "issns": [
+   "2520-8136"
+  ],
+  "jcr": 42.9,
+  "oa2y": 42.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Catalysis",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2520-1158",
+  "issns": [
+   "2520-1158"
+  ],
+  "jcr": 42.8,
+  "oa2y": 26.5,
+  "cnt": 305,
+  "jtype": "研究刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Cell",
+  "abbr": "Cell",
+  "pub": "Cell Press",
+  "issn": "0092-8674",
+  "issns": [
+   "0092-8674"
+  ],
+  "jcr": 42.5,
+  "oa2y": 39.6,
+  "cnt": 855,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Journal of Clinical Oncology",
+  "abbr": "",
+  "pub": "ASCO",
+  "issn": "0732-183X",
+  "issns": [
+   "0732-183X"
+  ],
+  "jcr": 42.1,
+  "oa2y": 1.7,
+  "cnt": 3581,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annals of Oncology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0923-7534",
+  "issns": [
+   "0923-7534"
+  ],
+  "jcr": 41.7,
+  "oa2y": 1.5,
+  "cnt": 5410,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Reviews Cardiology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1759-5002",
+  "issns": [
+   "1759-5002",
+   "1759-5010"
+  ],
+  "jcr": 41.7,
+  "oa2y": 16.8,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Reviews Molecular Cell Biology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1471-0072",
+  "issns": [
+   "1471-0072",
+   "1471-0080"
+  ],
+  "jcr": 41.7,
+  "oa2y": 41.7,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "The Lancet Oncology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "1470-2045",
+  "issns": [
+   "1470-2045"
+  ],
+  "jcr": 41.6,
+  "oa2y": 11.6,
+  "cnt": 686,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Signal Transduction and Targeted Therapy",
+  "abbr": "",
+  "pub": "Springer Nature",
+  "issn": "2059-3635",
+  "issns": [
+   "2059-3635"
+  ],
+  "jcr": 39.3,
+  "oa2y": 49.1,
+  "cnt": 741,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Reviews Genetics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1471-0056",
+  "issns": [
+   "1471-0056",
+   "1471-0064"
+  ],
+  "jcr": 39.1,
+  "oa2y": 17.0,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "The Lancet Respiratory Medicine",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2213-2600",
+  "issns": [
+   "2213-2600"
+  ],
+  "jcr": 38.7,
+  "oa2y": 10.7,
+  "cnt": 379,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Nanotechnology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1748-3387",
+  "issns": [
+   "1748-3387",
+   "1748-3395"
+  ],
+  "jcr": 38.1,
+  "oa2y": 26.1,
+  "cnt": 417,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Reviews Earth & Environment",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-138X",
+  "issns": [
+   "2662-138X"
+  ],
+  "jcr": 38.0,
+  "oa2y": 23.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "European Heart Journal",
+  "abbr": "",
+  "pub": "OUP",
+  "issn": "0195-668X",
+  "issns": [
+   "0195-668X"
+  ],
+  "jcr": 37.6,
+  "oa2y": 2.9,
+  "cnt": 6442,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Joule",
+  "abbr": "",
+  "pub": "Cell Press",
+  "issn": "2542-4351",
+  "issns": [
+   "2542-4351"
+  ],
+  "jcr": 37.5,
+  "oa2y": 27.2,
+  "cnt": 460,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Materials",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1476-1122",
+  "issns": [
+   "1476-1122",
+   "1476-4660"
+  ],
+  "jcr": 37.2,
+  "oa2y": 22.5,
+  "cnt": 622,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "The Lancet Infectious Diseases",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "1473-3099",
+  "issns": [
+   "1473-3099"
+  ],
+  "jcr": 36.4,
+  "oa2y": 11.5,
+  "cnt": 679,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Methods",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1548-7091",
+  "issns": [
+   "1548-7091",
+   "1548-7105"
+  ],
+  "jcr": 36.1,
+  "oa2y": 21.5,
+  "cnt": 618,
+  "jtype": "研究刊",
+  "field": "方法",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Circulation",
+  "abbr": "",
+  "pub": "AHA",
+  "issn": "0009-7322",
+  "issns": [
+   "0009-7322"
+  ],
+  "jcr": 35.5,
+  "oa2y": 2.3,
+  "cnt": 764,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "IEEE Communications Surveys & Tutorials",
+  "abbr": "",
+  "pub": "IEEE",
+  "issn": "1553-877X",
+  "issns": [
+   "1553-877X"
+  ],
+  "jcr": 34.5,
+  "oa2y": 38.0,
+  "cnt": 202,
+  "jtype": "综述刊",
+  "field": "通信",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Electronics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2520-1131",
+  "issns": [
+   "2520-1131"
+  ],
+  "jcr": 33.7,
+  "oa2y": 16.8,
+  "cnt": 359,
+  "jtype": "研究刊",
+  "field": "电子",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Progress in Materials Science",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0079-6425",
+  "issns": [
+   "0079-6425"
+  ],
+  "jcr": 33.6,
+  "oa2y": 33.2,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Innovation",
+  "abbr": "",
+  "pub": "Cell Press/CAS",
+  "issn": "2666-6758",
+  "issns": [
+   "2666-6758"
+  ],
+  "jcr": 33.2,
+  "oa2y": 9.5,
+  "cnt": 445,
+  "jtype": "研究刊",
+  "field": "综合",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Biotechnology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1087-0156",
+  "issns": [
+   "1087-0156",
+   "1546-1696"
+  ],
+  "jcr": 33.1,
+  "oa2y": 12.4,
+  "cnt": 714,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Photonics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1749-4885",
+  "issns": [
+   "1749-4885",
+   "1749-4893",
+   "9999-9999"
+  ],
+  "jcr": 32.3,
+  "oa2y": 24.5,
+  "cnt": 381,
+  "jtype": "研究刊",
+  "field": "光电",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Genetics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1061-4036",
+  "issns": [
+   "1061-4036",
+   "1546-1718"
+  ],
+  "jcr": 31.7,
+  "oa2y": 17.7,
+  "cnt": 633,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Materials Science and Engineering: R",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0927-796X",
+  "issns": [
+   "0927-796X"
+  ],
+  "jcr": 31.6,
+  "oa2y": 19.4,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Progress in Energy and Combustion Science",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0360-1285",
+  "issns": [
+   "0360-1285"
+  ],
+  "jcr": 30.9,
+  "oa2y": 33.6,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Lancet Gastroenterology & Hepatology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2468-1253",
+  "issns": [
+   "2468-1253"
+  ],
+  "jcr": 30.9,
+  "oa2y": 12.0,
+  "cnt": 327,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Energy & Environmental Science",
+  "abbr": "",
+  "pub": "RSC",
+  "issn": "1754-5692",
+  "issns": [
+   "1754-5692"
+  ],
+  "jcr": 30.8,
+  "oa2y": 30.3,
+  "cnt": 983,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Lancet Psychiatry",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2215-0366",
+  "issns": [
+   "2215-0366"
+  ],
+  "jcr": 30.8,
+  "oa2y": 8.2,
+  "cnt": 299,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nano-Micro Letters",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "2150-5551",
+  "issns": [
+   "2150-5551"
+  ],
+  "jcr": 30.6,
+  "oa2y": 30.8,
+  "cnt": 693,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "eScience",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2667-1417",
+  "issns": [
+   "2667-1417"
+  ],
+  "jcr": 30.5,
+  "oa2y": 30.5,
+  "cnt": 162,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Environmental Chemistry Letters",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "1610-3653",
+  "issns": [
+   "1610-3653"
+  ],
+  "jcr": 30.4,
+  "oa2y": 30.4,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "环境",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Reviews Chemistry",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-3358",
+  "issns": [
+   "2397-3358"
+  ],
+  "jcr": 30.0,
+  "oa2y": 22.3,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Physiological Reviews",
+  "abbr": "",
+  "pub": "APS",
+  "issn": "0031-9333",
+  "issns": [
+   "0031-9333"
+  ],
+  "jcr": 29.9,
+  "oa2y": 21.1,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "生理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Cancer Discovery",
+  "abbr": "",
+  "pub": "AACR",
+  "issn": "2159-8274",
+  "issns": [
+   "2159-8274"
+  ],
+  "jcr": 29.7,
+  "oa2y": 7.2,
+  "cnt": 657,
+  "jtype": "研究刊",
+  "field": "肿瘤",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Climate Change",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1758-678X",
+  "issns": [
+   "1758-678X",
+   "1758-6798"
+  ],
+  "jcr": 29.6,
+  "oa2y": 12.9,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "气候",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Journal of Hematology & Oncology",
+  "abbr": "",
+  "pub": "BMC",
+  "issn": "1756-8722",
+  "issns": [
+   "1756-8722"
+  ],
+  "jcr": 29.5,
+  "oa2y": 32.5,
+  "cnt": 169,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Immunology",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "0732-0582",
+  "issns": [
+   "0732-0582"
+  ],
+  "jcr": 29.3,
+  "oa2y": 29.3,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "免疫",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Reviews Neuroscience",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1471-003X",
+  "issns": [
+   "1471-003X",
+   "1471-0048"
+  ],
+  "jcr": 28.7,
+  "oa2y": 15.2,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Reviews Nephrology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1745-8323",
+  "issns": [
+   "1745-8323",
+   "1759-5061",
+   "1759-507X"
+  ],
+  "jcr": 28.6,
+  "oa2y": 16.8,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "JAMA Oncology",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "2374-2437",
+  "issns": [
+   "2374-2437"
+  ],
+  "jcr": 28.4,
+  "oa2y": 7.9,
+  "cnt": 540,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Cell Research",
+  "abbr": "",
+  "pub": "Springer Nature",
+  "issn": "1001-0602",
+  "issns": [
+   "1001-0602"
+  ],
+  "jcr": 28.1,
+  "oa2y": 11.5,
+  "cnt": 220,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Cell Metabolism",
+  "abbr": "",
+  "pub": "Cell Press",
+  "issn": "1550-4131",
+  "issns": [
+   "1550-4131"
+  ],
+  "jcr": 27.7,
+  "oa2y": 28.4,
+  "cnt": 343,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Molecular Cancer",
+  "abbr": "",
+  "pub": "BMC",
+  "issn": "1476-4598",
+  "issns": [
+   "1476-4598"
+  ],
+  "jcr": 27.7,
+  "oa2y": 27.3,
+  "cnt": 507,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Intensive Care Medicine",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "0342-4642",
+  "issns": [
+   "0342-4642"
+  ],
+  "jcr": 27.1,
+  "oa2y": 6.4,
+  "cnt": 720,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Advanced Materials",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "0935-9648",
+  "issns": [
+   "0935-9648"
+  ],
+  "jcr": 26.8,
+  "oa2y": 22.0,
+  "cnt": 6694,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Journal of Hepatology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0168-8278",
+  "issns": [
+   "0168-8278"
+  ],
+  "jcr": 26.8,
+  "oa2y": 2.3,
+  "cnt": 1472,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Biomedical Engineering",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2157-846X",
+  "issns": [
+   "2157-846X"
+  ],
+  "jcr": 26.8,
+  "oa2y": 13.6,
+  "cnt": 400,
+  "jtype": "研究刊",
+  "field": "生医工",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Science Robotics",
+  "abbr": "Sci Robot",
+  "pub": "AAAS",
+  "issn": "2470-9476",
+  "issns": [
+   "2470-9476"
+  ],
+  "jcr": 26.1,
+  "oa2y": 17.5,
+  "cnt": 191,
+  "jtype": "研究刊",
+  "field": "机器人",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "多为硬件评测，预计入选率低但仿真 benchmark 可留",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "JAMA Psychiatry",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "2168-622X",
+  "issns": [
+   "2168-622X"
+  ],
+  "jcr": 25.8,
+  "oa2y": 12.5,
+  "cnt": 376,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Gastroenterology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0016-5085",
+  "issns": [
+   "0016-5085"
+  ],
+  "jcr": 25.7,
+  "oa2y": 0.6,
+  "cnt": 3720,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Immunity",
+  "abbr": "",
+  "pub": "Cell Press",
+  "issn": "1074-7613",
+  "issns": [
+   "1074-7613"
+  ],
+  "jcr": 25.5,
+  "oa2y": 23.2,
+  "cnt": 436,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Lancet Public Health",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2468-2667",
+  "issns": [
+   "2468-2667"
+  ],
+  "jcr": 25.4,
+  "oa2y": 16.4,
+  "cnt": 230,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "European Urology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0302-2838",
+  "issns": [
+   "0302-2838"
+  ],
+  "jcr": 25.3,
+  "oa2y": 1.4,
+  "cnt": 297,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Advances in Optics and Photonics",
+  "abbr": "",
+  "pub": "Optica",
+  "issn": "1943-8206",
+  "issns": [
+   "1943-8206"
+  ],
+  "jcr": 24.5,
+  "oa2y": 24.5,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "光电",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Advanced Energy Materials",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "1614-6832",
+  "issns": [
+   "1614-6832"
+  ],
+  "jcr": 24.4,
+  "oa2y": 18.7,
+  "cnt": 2045,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Plant Biology",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "1543-5008",
+  "issns": [
+   "1543-5008"
+  ],
+  "jcr": 24.4,
+  "oa2y": 24.4,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "植物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Biochemistry",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "0066-4154",
+  "issns": [
+   "0066-4154"
+  ],
+  "jcr": 24.0,
+  "oa2y": 24.0,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "生化",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "JAMA Cardiology",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "2380-6583",
+  "issns": [
+   "2380-6583"
+  ],
+  "jcr": 24.0,
+  "oa2y": 7.9,
+  "cnt": 448,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Physics Reports",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0370-1573",
+  "issns": [
+   "0370-1573"
+  ],
+  "jcr": 23.9,
+  "oa2y": 15.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "物理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "ACM Computing Surveys",
+  "abbr": "CSUR",
+  "pub": "ACM",
+  "issn": "0360-0300",
+  "issns": [
+   "0360-0300"
+  ],
+  "jcr": 23.8,
+  "oa2y": 22.8,
+  "cnt": 541,
+  "jtype": "综述刊",
+  "field": "计算",
+  "tier": "T2",
+  "rel": "☆",
+  "note": "无自研 benchmark/SOTA，按标准必然全灭",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Progress in Polymer Science",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0079-6700",
+  "issns": [
+   "0079-6700"
+  ],
+  "jcr": 23.8,
+  "oa2y": 23.8,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "高分子",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Lancet Digital Health",
+  "abbr": "Lancet Digit Health",
+  "pub": "Elsevier",
+  "issn": "2589-7500",
+  "issns": [
+   "2589-7500"
+  ],
+  "jcr": 23.8,
+  "oa2y": null,
+  "cnt": 188,
+  "jtype": "研究刊",
+  "field": "数字医疗",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Gut",
+  "abbr": "",
+  "pub": "BMJ",
+  "issn": "0017-5749",
+  "issns": [
+   "0017-5749"
+  ],
+  "jcr": 23.0,
+  "oa2y": 10.6,
+  "cnt": 600,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Pathology",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "1553-4006",
+  "issns": [
+   "1553-4006"
+  ],
+  "jcr": 22.9,
+  "oa2y": 22.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "病理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "InfoMat",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "2567-3165",
+  "issns": [
+   "2567-3165"
+  ],
+  "jcr": 22.7,
+  "oa2y": 13.7,
+  "cnt": 160,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Cancer",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-1347",
+  "issns": [
+   "2662-1347"
+  ],
+  "jcr": 22.7,
+  "oa2y": 16.4,
+  "cnt": 322,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "JAMA Internal Medicine",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "2168-6106",
+  "issns": [
+   "2168-6106"
+  ],
+  "jcr": 22.5,
+  "oa2y": 7.1,
+  "cnt": 718,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "iMeta",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "2770-596X",
+  "issns": [
+   "2770-596X"
+  ],
+  "jcr": 22.4,
+  "oa2y": 22.4,
+  "cnt": 164,
+  "jtype": "研究刊",
+  "field": "生信",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Journal of the American College of Cardiology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0735-1097",
+  "issns": [
+   "0735-1097"
+  ],
+  "jcr": 21.7,
+  "oa2y": 1.2,
+  "cnt": 10753,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Human Behaviour",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-3374",
+  "issns": [
+   "2397-3374"
+  ],
+  "jcr": 21.4,
+  "oa2y": 13.9,
+  "cnt": 407,
+  "jtype": "研究刊",
+  "field": "社科",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Neuroscience",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1097-6256",
+  "issns": [
+   "1097-6256",
+   "1546-1726"
+  ],
+  "jcr": 21.2,
+  "oa2y": 17.2,
+  "cnt": 518,
+  "jtype": "研究刊",
+  "field": "神经",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Sustainability",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2398-9629",
+  "issns": [
+   "2398-9629"
+  ],
+  "jcr": 21.2,
+  "oa2y": 21.2,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "可持续",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Materials Today",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "1369-7021",
+  "issns": [
+   "1369-7021"
+  ],
+  "jcr": 21.1,
+  "oa2y": 13.2,
+  "cnt": 591,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Blood",
+  "abbr": "",
+  "pub": "ASH",
+  "issn": "0006-4971",
+  "issns": [
+   "0006-4971"
+  ],
+  "jcr": 21.0,
+  "oa2y": 1.4,
+  "cnt": 1505,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Astronomy and Astrophysics",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "0066-4146",
+  "issns": [
+   "0066-4146"
+  ],
+  "jcr": 20.9,
+  "oa2y": 20.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "天文",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Advances in Colloid and Interface Science",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0001-8686",
+  "issns": [
+   "0001-8686"
+  ],
+  "jcr": 20.6,
+  "oa2y": 20.6,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Light: Science & Applications",
+  "abbr": "",
+  "pub": "Springer Nature",
+  "issn": "2047-7538",
+  "issns": [
+   "2047-7538"
+  ],
+  "jcr": 20.6,
+  "oa2y": 17.0,
+  "cnt": 729,
+  "jtype": "研究刊",
+  "field": "光电",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "JAMA Neurology",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "2168-6149",
+  "issns": [
+   "2168-6149"
+  ],
+  "jcr": 20.4,
+  "oa2y": 11.7,
+  "cnt": 413,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annals of the Rheumatic Diseases",
+  "abbr": "",
+  "pub": "BMJ",
+  "issn": "0003-4967",
+  "issns": [
+   "0003-4967"
+  ],
+  "jcr": 20.3,
+  "oa2y": 1.4,
+  "cnt": 737,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Coordination Chemistry Reviews",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0010-8545",
+  "issns": [
+   "0010-8545"
+  ],
+  "jcr": 20.3,
+  "oa2y": 19.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Applied Catalysis B: Environmental",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0926-3373",
+  "issns": [
+   "0926-3373"
+  ],
+  "jcr": 20.2,
+  "oa2y": 16.0,
+  "cnt": 1985,
+  "jtype": "研究刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "International Journal of Information Management",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0268-4012",
+  "issns": [
+   "0268-4012"
+  ],
+  "jcr": 20.1,
+  "oa2y": 15.1,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "信息管理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Quarterly Journal of Economics",
+  "abbr": "",
+  "pub": "OUP",
+  "issn": "0033-5533",
+  "issns": [
+   "0033-5533"
+  ],
+  "jcr": 20.0,
+  "oa2y": 20.0,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "经济",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Carbon Energy",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "2096-9570",
+  "issns": [
+   "2096-9570"
+  ],
+  "jcr": 19.9,
+  "oa2y": 16.8,
+  "cnt": 318,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Cellular and Molecular Immunology",
+  "abbr": "",
+  "pub": "Springer Nature",
+  "issn": "1672-7681",
+  "issns": [
+   "1672-7681"
+  ],
+  "jcr": 19.9,
+  "oa2y": 19.9,
+  "cnt": 194,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Opto-Electronic Advances",
+  "abbr": "",
+  "pub": "OEA",
+  "issn": "2096-4579",
+  "issns": [
+   "2096-4579"
+  ],
+  "jcr": 19.9,
+  "oa2y": 19.9,
+  "cnt": 126,
+  "jtype": "研究刊",
+  "field": "光电",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Lancet Global Health",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2214-109X",
+  "issns": [
+   "2214-109X"
+  ],
+  "jcr": 19.9,
+  "oa2y": 10.7,
+  "cnt": 519,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Cell Stem Cell",
+  "abbr": "",
+  "pub": "Cell Press",
+  "issn": "1934-5909",
+  "issns": [
+   "1934-5909"
+  ],
+  "jcr": 19.8,
+  "oa2y": 18.3,
+  "cnt": 275,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annals of Internal Medicine",
+  "abbr": "",
+  "pub": "ACP",
+  "issn": "0003-4819",
+  "issns": [
+   "0003-4819"
+  ],
+  "jcr": 19.6,
+  "oa2y": 4.7,
+  "cnt": 877,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "JAMA Pediatrics",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "2168-6203",
+  "issns": [
+   "2168-6203"
+  ],
+  "jcr": 19.6,
+  "oa2y": 6.3,
+  "cnt": 619,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Journal of Extracellular Vesicles",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "2001-3078",
+  "issns": [
+   "2001-3078"
+  ],
+  "jcr": 19.6,
+  "oa2y": 19.6,
+  "cnt": 304,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Endocrine Reviews",
+  "abbr": "",
+  "pub": "OUP",
+  "issn": "0163-769X",
+  "issns": [
+   "0163-769X"
+  ],
+  "jcr": 19.4,
+  "oa2y": 19.4,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "内分泌",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "ACS Energy Letters",
+  "abbr": "",
+  "pub": "ACS",
+  "issn": "2380-8195",
+  "issns": [
+   "2380-8195"
+  ],
+  "jcr": 19.3,
+  "oa2y": null,
+  "cnt": 1177,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Pharmacological Reviews",
+  "abbr": "",
+  "pub": "ASPET",
+  "issn": "0031-6997",
+  "issns": [
+   "0031-6997"
+  ],
+  "jcr": 19.3,
+  "oa2y": 26.9,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "药理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Reviews of Geophysics",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "8755-1209",
+  "issns": [
+   "8755-1209"
+  ],
+  "jcr": 19.3,
+  "oa2y": 19.3,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "地球",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Chemistry",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1755-4330",
+  "issns": [
+   "1755-4330",
+   "1755-4349"
+  ],
+  "jcr": 19.2,
+  "oa2y": 18.5,
+  "cnt": 512,
+  "jtype": "研究刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Chem",
+  "abbr": "",
+  "pub": "Cell Press",
+  "issn": "2451-9294",
+  "issns": [
+   "2451-9294"
+  ],
+  "jcr": 19.1,
+  "oa2y": 11.6,
+  "cnt": 497,
+  "jtype": "研究刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Advanced Fiber Materials",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "2524-7921",
+  "issns": [
+   "2524-7921"
+  ],
+  "jcr": 19.0,
+  "oa2y": 19.0,
+  "cnt": 242,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Military Medical Research",
+  "abbr": "",
+  "pub": "BMC",
+  "issn": "2054-9369",
+  "issns": [
+   "2054-9369"
+  ],
+  "jcr": 19.0,
+  "oa2y": 10.6,
+  "cnt": 156,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Machine Intelligence",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2522-5839",
+  "issns": [
+   "2522-5839"
+  ],
+  "jcr": 18.8,
+  "oa2y": null,
+  "cnt": 321,
+  "jtype": "研究刊",
+  "field": "AI",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Science Bulletin",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2095-9273",
+  "issns": [
+   "2095-9273"
+  ],
+  "jcr": 18.8,
+  "oa2y": 8.7,
+  "cnt": 1167,
+  "jtype": "研究刊",
+  "field": "综合",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Bone Research",
+  "abbr": "",
+  "pub": "Springer Nature",
+  "issn": "2095-4700",
+  "issns": [
+   "2095-4700"
+  ],
+  "jcr": 18.6,
+  "oa2y": 18.6,
+  "cnt": 186,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "IEEE Trans. Pattern Analysis and Machine Intelligence",
+  "abbr": "TPAMI",
+  "pub": "IEEE",
+  "issn": "0162-8828",
+  "issns": [
+   "0162-8828"
+  ],
+  "jcr": 18.6,
+  "oa2y": 13.8,
+  "cnt": 1606,
+  "jtype": "研究刊",
+  "field": "AI",
+  "tier": "T1",
+  "rel": "★★★★",
+  "note": "IEEE 最核心，几乎必有公开 benchmark",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Advanced Functional Materials",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "1616-301X",
+  "issns": [
+   "1616-301X"
+  ],
+  "jcr": 18.5,
+  "oa2y": 14.9,
+  "cnt": 10214,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Journal of Materials Science & Technology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "1005-0302",
+  "issns": [
+   "1005-0302"
+  ],
+  "jcr": 18.4,
+  "oa2y": 18.4,
+  "cnt": 1562,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Energy Storage Materials",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2405-8297",
+  "issns": [
+   "2405-8297"
+  ],
+  "jcr": 18.3,
+  "oa2y": 13.4,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Acta Numerica",
+  "abbr": "",
+  "pub": "CUP",
+  "issn": "0962-4929",
+  "issns": [
+   "0962-4929"
+  ],
+  "jcr": 18.1,
+  "oa2y": 18.1,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "数学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Advanced Powder Materials",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2772-834X",
+  "issns": [
+   "2772-834X"
+  ],
+  "jcr": 18.1,
+  "oa2y": 18.1,
+  "cnt": 117,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Bioactive Materials",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2452-199X",
+  "issns": [
+   "2452-199X"
+  ],
+  "jcr": 18.0,
+  "oa2y": 10.2,
+  "cnt": 944,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Progress in Aerospace Sciences",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0376-0421",
+  "issns": [
+   "0376-0421"
+  ],
+  "jcr": 17.7,
+  "oa2y": 17.7,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "航空",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Physics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1745-2473",
+  "issns": [
+   "1745-2473",
+   "1745-2481"
+  ],
+  "jcr": 17.6,
+  "oa2y": 11.3,
+  "cnt": 701,
+  "jtype": "研究刊",
+  "field": "物理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Science Immunology",
+  "abbr": "",
+  "pub": "AAAS",
+  "issn": "2470-9468",
+  "issns": [
+   "2470-9468"
+  ],
+  "jcr": 17.6,
+  "oa2y": 15.2,
+  "cnt": 224,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Clinical Psychology",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "1548-5943",
+  "issns": [
+   "1548-5943"
+  ],
+  "jcr": 17.5,
+  "oa2y": 17.5,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "心理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Molecular Neurodegeneration",
+  "abbr": "",
+  "pub": "BMC",
+  "issn": "1750-1326",
+  "issns": [
+   "1750-1326"
+  ],
+  "jcr": 17.4,
+  "oa2y": 17.4,
+  "cnt": 185,
+  "jtype": "研究刊",
+  "field": "神经",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Matter",
+  "abbr": "",
+  "pub": "Cell Press",
+  "issn": "2590-2385",
+  "issns": [
+   "2590-2385"
+  ],
+  "jcr": 17.3,
+  "oa2y": null,
+  "cnt": 676,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Metabolism",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2522-5812",
+  "issns": [
+   "2522-5812"
+  ],
+  "jcr": 17.3,
+  "oa2y": 17.3,
+  "cnt": 387,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "SusMat",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "2692-4552",
+  "issns": [
+   "2692-4552"
+  ],
+  "jcr": 17.2,
+  "oa2y": 17.2,
+  "cnt": 86,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Clinical Microbiology Reviews",
+  "abbr": "",
+  "pub": "ASM",
+  "issn": "0893-8512",
+  "issns": [
+   "0893-8512"
+  ],
+  "jcr": 17.1,
+  "oa2y": 17.1,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "微生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Biochar",
+  "abbr": "",
+  "pub": "Springer Nature",
+  "issn": "2524-7867",
+  "issns": [
+   "2524-7867"
+  ],
+  "jcr": 17.0,
+  "oa2y": 17.0,
+  "cnt": 249,
+  "jtype": "研究刊",
+  "field": "环境",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "International Journal of Machine Tools and Manufacture",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0890-6955",
+  "issns": [
+   "0890-6955"
+  ],
+  "jcr": 17.0,
+  "oa2y": 17.0,
+  "cnt": 71,
+  "jtype": "研究刊",
+  "field": "制造",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "International Journal of Plasticity",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0749-6419",
+  "issns": [
+   "0749-6419"
+  ],
+  "jcr": 17.0,
+  "oa2y": 17.0,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "力学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Water",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-6084",
+  "issns": [
+   "2731-6084"
+  ],
+  "jcr": 17.0,
+  "oa2y": 17.6,
+  "cnt": 313,
+  "jtype": "研究刊",
+  "field": "水",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nano Energy",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2211-2855",
+  "issns": [
+   "2211-2855"
+  ],
+  "jcr": 16.8,
+  "oa2y": 18.3,
+  "cnt": 1441,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Green Energy and Intelligent Transportation",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2773-1537",
+  "issns": [
+   "2773-1537"
+  ],
+  "jcr": 16.7,
+  "oa2y": 16.7,
+  "cnt": 141,
+  "jtype": "研究刊",
+  "field": "交通",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "European Respiratory Journal",
+  "abbr": "",
+  "pub": "ERS",
+  "issn": "0903-1936",
+  "issns": [
+   "0903-1936"
+  ],
+  "jcr": 16.6,
+  "oa2y": 8.5,
+  "cnt": 553,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Microbiology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2058-5276",
+  "issns": [
+   "2058-5276"
+  ],
+  "jcr": 16.6,
+  "oa2y": 16.6,
+  "cnt": 527,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nucleic Acids Research",
+  "abbr": "NAR",
+  "pub": "OUP",
+  "issn": "0305-1048",
+  "issns": [
+   "0305-1048"
+  ],
+  "jcr": 16.6,
+  "oa2y": 15.9,
+  "cnt": 2249,
+  "jtype": "研究刊",
+  "field": "生信",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "Web Server 专刊工具多",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Translational Neurodegeneration",
+  "abbr": "",
+  "pub": "BMC",
+  "issn": "2047-9158",
+  "issns": [
+   "2047-9158"
+  ],
+  "jcr": 16.6,
+  "oa2y": 16.6,
+  "cnt": 106,
+  "jtype": "研究刊",
+  "field": "神经",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "World Psychiatry",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "1723-8617",
+  "issns": [
+   "1723-8617"
+  ],
+  "jcr": 16.6,
+  "oa2y": 16.6,
+  "cnt": 183,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Cardiovascular Diabetology",
+  "abbr": "",
+  "pub": "BMC",
+  "issn": "1475-2840",
+  "issns": [
+   "1475-2840"
+  ],
+  "jcr": 16.5,
+  "oa2y": 16.5,
+  "cnt": 716,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Circulation Research",
+  "abbr": "",
+  "pub": "AHA",
+  "issn": "0009-7330",
+  "issns": [
+   "0009-7330"
+  ],
+  "jcr": 16.5,
+  "oa2y": 5.4,
+  "cnt": 410,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Accounts of Chemical Research",
+  "abbr": "",
+  "pub": "ACS",
+  "issn": "0001-4842",
+  "issns": [
+   "0001-4842"
+  ],
+  "jcr": 16.4,
+  "oa2y": 19.6,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "National Science Review",
+  "abbr": "NSR",
+  "pub": "OUP",
+  "issn": "2053-714X",
+  "issns": [
+   "2053-714X"
+  ],
+  "jcr": 16.3,
+  "oa2y": 9.7,
+  "cnt": 1087,
+  "jtype": "研究刊",
+  "field": "综合",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Ageing Research Reviews",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "1568-1637",
+  "issns": [
+   "1568-1637"
+  ],
+  "jcr": 16.2,
+  "oa2y": 16.2,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "老龄",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Diabetes Care",
+  "abbr": "",
+  "pub": "ADA",
+  "issn": "0149-5992",
+  "issns": [
+   "0149-5992"
+  ],
+  "jcr": 16.2,
+  "oa2y": 12.8,
+  "cnt": 655,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Angewandte Chemie International Edition",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "1433-7851",
+  "issns": [
+   "1433-7851"
+  ],
+  "jcr": 16.1,
+  "oa2y": 14.9,
+  "cnt": 8426,
+  "jtype": "研究刊",
+  "field": "化学",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "International Journal of Extreme Manufacturing",
+  "abbr": "",
+  "pub": "IOP",
+  "issn": "2631-7990",
+  "issns": [
+   "2631-7990"
+  ],
+  "jcr": 16.1,
+  "oa2y": 16.1,
+  "cnt": 269,
+  "jtype": "研究刊",
+  "field": "制造",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Journal of Energy Chemistry",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2095-4956",
+  "issns": [
+   "2095-4956"
+  ],
+  "jcr": 16.1,
+  "oa2y": 16.1,
+  "cnt": 1461,
+  "jtype": "研究刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Technological Forecasting and Social Change",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "0040-1625",
+  "issns": [
+   "0040-1625"
+  ],
+  "jcr": 16.1,
+  "oa2y": 16.1,
+  "cnt": 641,
+  "jtype": "研究刊",
+  "field": "管理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Academy of Management Annals",
+  "abbr": "",
+  "pub": "Routledge",
+  "issn": "1941-6067",
+  "issns": [
+   "1941-6067"
+  ],
+  "jcr": 16.0,
+  "oa2y": 16.0,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "管理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Aging",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-8465",
+  "issns": [
+   "2662-8465"
+  ],
+  "jcr": 16.0,
+  "oa2y": 16.0,
+  "cnt": 382,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Gut Microbes",
+  "abbr": "",
+  "pub": "T&F",
+  "issn": "1949-0976",
+  "issns": [
+   "1949-0976"
+  ],
+  "jcr": 15.9,
+  "oa2y": 15.9,
+  "cnt": 637,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Cell Biology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1465-7392",
+  "issns": [
+   "1465-7392",
+   "1476-4679"
+  ],
+  "jcr": 15.9,
+  "oa2y": 15.9,
+  "cnt": 432,
+  "jtype": "研究刊",
+  "field": "生物",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Renewable and Sustainable Energy Reviews",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "1364-0321",
+  "issns": [
+   "1364-0321"
+  ],
+  "jcr": 15.9,
+  "oa2y": 17.3,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "能源",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "ACS Nano",
+  "abbr": "",
+  "pub": "ACS",
+  "issn": "1936-0851",
+  "issns": [
+   "1936-0851"
+  ],
+  "jcr": 15.8,
+  "oa2y": 16.7,
+  "cnt": 4715,
+  "jtype": "研究刊",
+  "field": "材料",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "International Journal of Oral Science",
+  "abbr": "",
+  "pub": "Springer Nature",
+  "issn": "1674-2818",
+  "issns": [
+   "1674-2818"
+  ],
+  "jcr": 15.8,
+  "oa2y": 15.8,
+  "cnt": 118,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "JAMA Surgery",
+  "abbr": "",
+  "pub": "AMA",
+  "issn": "2168-6254",
+  "issns": [
+   "2168-6254"
+  ],
+  "jcr": 15.7,
+  "oa2y": 6.1,
+  "cnt": 560,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Geoscience",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1752-0894",
+  "issns": [
+   "1752-0894",
+   "1752-0908"
+  ],
+  "jcr": 15.6,
+  "oa2y": 12.2,
+  "cnt": 429,
+  "jtype": "研究刊",
+  "field": "地球",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Seminars in Immunopathology",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "1863-2297",
+  "issns": [
+   "1863-2297"
+  ],
+  "jcr": 15.6,
+  "oa2y": 15.6,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "免疫",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Review of Economic Studies",
+  "abbr": "",
+  "pub": "OUP",
+  "issn": "0034-6527",
+  "issns": [
+   "0034-6527"
+  ],
+  "jcr": 15.6,
+  "oa2y": 15.6,
+  "cnt": 170,
+  "jtype": "研究刊",
+  "field": "经济",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Microbiome",
+  "abbr": "",
+  "pub": "BMC",
+  "issn": "2049-2618",
+  "issns": [
+   "2049-2618"
+  ],
+  "jcr": 15.5,
+  "oa2y": 14.4,
+  "cnt": 473,
+  "jtype": "研究刊",
+  "field": "生信",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Psychology",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "0066-4308",
+  "issns": [
+   "0066-4308"
+  ],
+  "jcr": 15.4,
+  "oa2y": 15.4,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "心理",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Lancet Haematology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2352-3026",
+  "issns": [
+   "2352-3026"
+  ],
+  "jcr": 15.4,
+  "oa2y": 6.6,
+  "cnt": 256,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Environmental Science and Ecotechnology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2096-9643",
+  "issns": [
+   "2096-9643"
+  ],
+  "jcr": 15.3,
+  "oa2y": 15.3,
+  "cnt": 139,
+  "jtype": "研究刊",
+  "field": "环境",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Periodontology 2000",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "0906-6713",
+  "issns": [
+   "0906-6713"
+  ],
+  "jcr": 15.2,
+  "oa2y": 15.2,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "口腔",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "eTransportation",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2590-1168",
+  "issns": [
+   "2590-1168"
+  ],
+  "jcr": 15.1,
+  "oa2y": 15.1,
+  "cnt": 227,
+  "jtype": "研究刊",
+  "field": "交通",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Annual Review of Fluid Mechanics",
+  "abbr": "",
+  "pub": "Annual Reviews",
+  "issn": "0066-4189",
+  "issns": [
+   "0066-4189"
+  ],
+  "jcr": 15.0,
+  "oa2y": 15.0,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "流体",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "The Lancet Rheumatology",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2665-9913",
+  "issns": [
+   "2665-9913"
+  ],
+  "jcr": 15.0,
+  "oa2y": 6.9,
+  "cnt": 271,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Nature Communications",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2041-1723",
+  "issns": [
+   "2041-1723"
+  ],
+  "jcr": 14.7,
+  "oa2y": 16.9,
+  "cnt": 20789,
+  "jtype": "研究刊",
+  "field": "综合",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Science Translational Medicine",
+  "abbr": "Sci Transl Med",
+  "pub": "AAAS",
+  "issn": "1946-6234",
+  "issns": [
+   "1946-6234"
+  ],
+  "jcr": 14.7,
+  "oa2y": 15.0,
+  "cnt": 529,
+  "jtype": "研究刊",
+  "field": "临床",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Nature Protocols",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1750-2799",
+  "issns": [
+   "1750-2799",
+   "1754-2189"
+  ],
+  "jcr": 13.8,
+  "oa2y": 19.5,
+  "cnt": 309,
+  "jtype": "研究刊",
+  "field": "方法",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "ACM Trans. Information Systems",
+  "abbr": "TOIS",
+  "pub": "ACM",
+  "issn": "1046-8188",
+  "issns": [
+   "1046-8188"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 269,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "ACM Trans. Software Engineering and Methodology",
+  "abbr": "TOSEM",
+  "pub": "ACM",
+  "issn": "1049-331X",
+  "issns": [
+   "1049-331X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 670,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Artificial Intelligence (AIJ)",
+  "abbr": "AIJ",
+  "pub": "Elsevier",
+  "issn": "0004-3702",
+  "issns": [
+   "0004-3702"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 159,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Artificial Intelligence Review",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "0269-2821",
+  "issns": [
+   "0269-2821"
+  ],
+  "jcr": null,
+  "oa2y": 29.0,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "AI",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Bioinformatics",
+  "abbr": "Bioinformatics",
+  "pub": "OUP",
+  "issn": "1367-4803",
+  "issns": [
+   "1367-4803"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 1187,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Briefings in Bioinformatics",
+  "abbr": "BiB",
+  "pub": "OUP",
+  "issn": "1467-5463",
+  "issns": [
+   "1467-5463"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 1086,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "British Journal of Educational Technology",
+  "abbr": "",
+  "pub": "Wiley",
+  "issn": "0007-1013",
+  "issns": [
+   "0007-1013"
+  ],
+  "jcr": null,
+  "oa2y": 18.7,
+  "cnt": 132,
+  "jtype": "研究刊",
+  "field": "教育AI",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Cell Genomics",
+  "abbr": "Cell Genom",
+  "pub": "Cell Press",
+  "issn": "2666-979X",
+  "issns": [
+   "2666-979X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 278,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Cell Reports Medicine",
+  "abbr": "Cell Rep Med",
+  "pub": "Cell Press",
+  "issn": "2666-3791",
+  "issns": [
+   "2666-3791"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 794,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Cell Reports Methods",
+  "abbr": "Cell Rep Methods",
+  "pub": "Cell Press",
+  "issn": "2667-2375",
+  "issns": [
+   "2667-2375"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 340,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Cell Systems",
+  "abbr": "Cell Syst",
+  "pub": "Cell Press",
+  "issn": "2405-4712",
+  "issns": [
+   "2405-4712"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 234,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Chemical Science",
+  "abbr": "Chem Sci",
+  "pub": "RSC",
+  "issn": "2041-6520",
+  "issns": [
+   "2041-6520"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 3412,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T2",
+  "rel": "★",
+  "note": "同上",
+  "src": "目标清单"
+ },
+ {
+  "name": "Communications AI & Computing",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3091-292X",
+  "issns": [
+   "3091-292X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Biology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2399-3642",
+  "issns": [
+   "2399-3642"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Chemistry",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2399-3669",
+  "issns": [
+   "2399-3669"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Earth & Environment",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-4435",
+  "issns": [
+   "2662-4435"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Engineering",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-3395",
+  "issns": [
+   "2731-3395"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Health",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3091-4841",
+  "issns": [
+   "3091-4841"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Materials",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-4443",
+  "issns": [
+   "2662-4443"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Medicine",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2730-664X",
+  "issns": [
+   "2730-664X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Physics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2399-3650",
+  "issns": [
+   "2399-3650"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Psychology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-9121",
+  "issns": [
+   "2731-9121"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Communications Sustainability",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-4308",
+  "issns": [
+   "3059-4308"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Computers & Education: Artificial Intelligence",
+  "abbr": "",
+  "pub": "Elsevier",
+  "issn": "2666-920X",
+  "issns": [
+   "2666-920X"
+  ],
+  "jcr": null,
+  "oa2y": 26.0,
+  "cnt": 266,
+  "jtype": "研究刊",
+  "field": "教育AI",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "Digital Discovery",
+  "abbr": "Digit Discov",
+  "pub": "RSC",
+  "issn": "2635-098X",
+  "issns": [
+   "2635-098X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 539,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T2",
+  "rel": "★★★",
+  "note": "部分纯计算 pipeline 可用，部分需湿实验",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Access",
+  "abbr": "IEEE Access",
+  "pub": "IEEE",
+  "issn": "2169-3536",
+  "issns": [
+   "2169-3536"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 20360,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T2",
+  "rel": "★",
+  "note": "体量近乎翻倍、命中率极低，建议跳过",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE J. Biomedical and Health Informatics",
+  "abbr": "JBHI",
+  "pub": "IEEE",
+  "issn": "2168-2194",
+  "issns": [
+   "2168-2194"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 1615,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Artificial Intelligence",
+  "abbr": "TAI",
+  "pub": "IEEE",
+  "issn": "2691-4581",
+  "issns": [
+   "2691-4581"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 624,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Audio, Speech and Language Processing",
+  "abbr": "TASLP",
+  "pub": "IEEE",
+  "issn": "2998-4173",
+  "issns": [
+   "2998-4173"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 640,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "2025 年改名换刊号，须用新 ISSN 2998-4173（旧 2329-9290 在 25–26 无文章）",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Cybernetics",
+  "abbr": "TCYB",
+  "pub": "IEEE",
+  "issn": "2168-2267",
+  "issns": [
+   "2168-2267"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 993,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Image Processing",
+  "abbr": "TIP",
+  "pub": "IEEE",
+  "issn": "1057-7149",
+  "issns": [
+   "1057-7149"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 1214,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Information Forensics and Security",
+  "abbr": "TIFS",
+  "pub": "IEEE",
+  "issn": "1556-6013",
+  "issns": [
+   "1556-6013"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 1312,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Intelligent Transportation Systems",
+  "abbr": "T-ITS",
+  "pub": "IEEE",
+  "issn": "1524-9050",
+  "issns": [
+   "1524-9050"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 2331,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "仿真可自动化，实车不要",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Knowledge and Data Engineering",
+  "abbr": "TKDE",
+  "pub": "IEEE",
+  "issn": "1041-4347",
+  "issns": [
+   "1041-4347"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 879,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Medical Imaging",
+  "abbr": "TMI",
+  "pub": "IEEE",
+  "issn": "0278-0062",
+  "issns": [
+   "0278-0062"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 646,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Neural Networks and Learning Systems",
+  "abbr": "TNNLS",
+  "pub": "IEEE",
+  "issn": "2162-237X",
+  "issns": [
+   "2162-237X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 1107,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Robotics",
+  "abbr": "T-RO",
+  "pub": "IEEE",
+  "issn": "1552-3098",
+  "issns": [
+   "1552-3098"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 476,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "硬件评测为主，预计低入选",
+  "src": "目标清单"
+ },
+ {
+  "name": "IEEE Trans. Software Engineering",
+  "abbr": "TSE",
+  "pub": "IEEE",
+  "issn": "0098-5589",
+  "issns": [
+   "0098-5589"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 396,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★★",
+  "note": "自动化等级最易达 A+",
+  "src": "目标清单"
+ },
+ {
+  "name": "International Journal of Educational Technology in Higher Education",
+  "abbr": "",
+  "pub": "Springer",
+  "issn": "2365-9440",
+  "issns": [
+   "2365-9440"
+  ],
+  "jcr": null,
+  "oa2y": 40.4,
+  "cnt": 112,
+  "jtype": "研究刊",
+  "field": "教育AI",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15"
+ },
+ {
+  "name": "J. American Medical Informatics Association",
+  "abbr": "JAMIA",
+  "pub": "OUP",
+  "issn": "1067-5027",
+  "issns": [
+   "1067-5027"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 339,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Journal of Artificial Intelligence Research",
+  "abbr": "JAIR",
+  "pub": "AAAI",
+  "issn": "1076-9757",
+  "issns": [
+   "1076-9757"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 239,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Journal of Machine Learning Research",
+  "abbr": "JMLR",
+  "pub": "MIT Press",
+  "issn": "1532-4435",
+  "issns": [
+   "1532-4435"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T2",
+  "rel": "★★★★",
+  "note": "需从 jmlr.org 官网 volume 页面单独爬",
+  "src": "目标清单"
+ },
+ {
+  "name": "Journal of the American Chemical Society",
+  "abbr": "JACS",
+  "pub": "ACS",
+  "issn": "0002-7863",
+  "issns": [
+   "0002-7863"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 7888,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T2",
+  "rel": "★",
+  "note": "评估基本靠湿实验合成 → 按标准大概率全灭",
+  "src": "目标清单"
+ },
+ {
+  "name": "Machine Learning",
+  "abbr": "MLJ",
+  "pub": "Springer",
+  "issn": "0885-6125",
+  "issns": [
+   "0885-6125"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 472,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Med",
+  "abbr": "Med",
+  "pub": "Cell Press",
+  "issn": "2666-6340",
+  "issns": [
+   "2666-6340"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 306,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "NEJM AI",
+  "abbr": "NEJM AI",
+  "pub": "NEJM Group",
+  "issn": "2836-9386",
+  "issns": [
+   "2836-9386"
+  ],
+  "jcr": null,
+  "oa2y": 17.4,
+  "cnt": 190,
+  "jtype": "研究刊",
+  "field": "医疗AI",
+  "tier": "T1",
+  "rel": "★★★★",
+  "note": "",
+  "src": "目标清单+IF≥15"
+ },
+ {
+  "name": "Nature Astronomy",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-3366",
+  "issns": [
+   "2397-3366"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Cardiovascular Research",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-0590",
+  "issns": [
+   "2731-0590"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Chemical Biology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1548-7091",
+  "issns": [
+   "1548-7091",
+   "1548-7105",
+   "1552-4450",
+   "1552-4469"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Chemical Engineering",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-1198",
+  "issns": [
+   "2948-1198"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Cities",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-9997",
+  "issns": [
+   "2731-9997"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Computational Science",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-8457",
+  "issns": [
+   "2662-8457"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Ecology & Evolution",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-334X",
+  "issns": [
+   "2397-334X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Food",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2662-1355",
+  "issns": [
+   "2662-1355"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Health",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-0693",
+  "issns": [
+   "3005-0693"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Immunology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1529-2908",
+  "issns": [
+   "1529-2908",
+   "1529-2916"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Mental Health",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-6076",
+  "issns": [
+   "2731-6076"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Plants",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2055-026X",
+  "issns": [
+   "2055-026X",
+   "2055-0278"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Reviews Biodiversity",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-0677",
+  "issns": [
+   "3005-0677"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Reviews Bioengineering",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-6092",
+  "issns": [
+   "2731-6092"
+  ],
+  "jcr": null,
+  "oa2y": 18.3,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Reviews Clean Technology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-0685",
+  "issns": [
+   "3005-0685"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Reviews Electrical Engineering",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-1201",
+  "issns": [
+   "2948-1201"
+  ],
+  "jcr": null,
+  "oa2y": 15.1,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "Nature系",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "IF≥15+Nature系"
+ },
+ {
+  "name": "Nature Reviews Endocrinology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1759-5029",
+  "issns": [
+   "1759-5029",
+   "1759-5037"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Reviews Neurology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1759-4758",
+  "issns": [
+   "1759-4758",
+   "1759-4766"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Reviews Psychology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-0574",
+  "issns": [
+   "2731-0574"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Reviews Rheumatology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1759-4790",
+  "issns": [
+   "1759-4790",
+   "1759-4804"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Reviews Urology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1759-4812",
+  "issns": [
+   "1759-4812",
+   "1759-4820"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "综述刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Sensors",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-4499",
+  "issns": [
+   "3059-4499"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Structural & Molecular Biology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "1545-9985",
+  "issns": [
+   "1545-9985",
+   "1545-9993"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Nature Synthesis",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-0582",
+  "issns": [
+   "2731-0582"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Neural Networks",
+  "abbr": "NN",
+  "pub": "Elsevier",
+  "issn": "0893-6080",
+  "issns": [
+   "0893-6080"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 2201,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "",
+  "src": "目标清单"
+ },
+ {
+  "name": "Pattern Recognition",
+  "abbr": "PR",
+  "pub": "Elsevier",
+  "issn": "0031-3203",
+  "issns": [
+   "0031-3203"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 3000,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "体量大、方法类为主",
+  "src": "目标清单"
+ },
+ {
+  "name": "Patterns",
+  "abbr": "Patterns",
+  "pub": "Cell Press",
+  "issn": "2666-3899",
+  "issns": [
+   "2666-3899"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 221,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★★",
+  "note": "Cell 系的 data science 刊，重点",
+  "src": "目标清单"
+ },
+ {
+  "name": "Proceedings of the IEEE",
+  "abbr": "Proc IEEE",
+  "pub": "IEEE",
+  "issn": "0018-9219",
+  "issns": [
+   "0018-9219"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 143,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T2",
+  "rel": "☆",
+  "note": "同上",
+  "src": "目标清单"
+ },
+ {
+  "name": "Proceedings of the National Academy of Sciences",
+  "abbr": "PNAS",
+  "pub": "NAS",
+  "issn": "0027-8424",
+  "issns": [
+   "0027-8424"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 6970,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★",
+  "note": "体量大，靠关键词预筛",
+  "src": "目标清单"
+ },
+ {
+  "name": "Science Advances",
+  "abbr": "Sci Adv",
+  "pub": "AAAS",
+  "issn": "2375-2548",
+  "issns": [
+   "2375-2548"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 5276,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★",
+  "note": "体量大，靠关键词预筛",
+  "src": "目标清单"
+ },
+ {
+  "name": "Scientific Reports",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2045-2322",
+  "issns": [
+   "2045-2322"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "Transactions on Machine Learning Research",
+  "abbr": "TMLR",
+  "pub": "JMLR/OpenReview",
+  "issn": "2835-8856",
+  "issns": [
+   "2835-8856"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T2",
+  "rel": "★★★★",
+  "note": "需从 OpenReview API 爬",
+  "src": "目标清单"
+ },
+ {
+  "name": "npj 2D Materials and Applications",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-7132",
+  "issns": [
+   "2397-7132"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Acoustics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-141X",
+  "issns": [
+   "3005-141X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Advanced Manufacturing",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3004-8621",
+  "issns": [
+   "3004-8621"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Aging",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-6068",
+  "issns": [
+   "2731-6068"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Antimicrobials and Resistance",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-8745",
+  "issns": [
+   "2731-8745"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Artificial Intelligence",
+  "abbr": "npj AI",
+  "pub": "Nature Portfolio",
+  "issn": "3005-1460",
+  "issns": [
+   "3005-1460"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": 143,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "T1",
+  "rel": "★★★★",
+  "note": "Nature 旗下但不在上次的 44 刊里",
+  "src": "目标清单+Nature系"
+ },
+ {
+  "name": "npj Biodiversity",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-4243",
+  "issns": [
+   "2731-4243"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Biofilms and Microbiomes",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2055-5008",
+  "issns": [
+   "2055-5008"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Biological Physics and Mechanics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3004-863X",
+  "issns": [
+   "3004-863X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Biological Timing and Sleep",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-281X",
+  "issns": [
+   "2948-281X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Biomedical Innovations",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-1444",
+  "issns": [
+   "3005-1444"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Biosensing",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3004-8656",
+  "issns": [
+   "3004-8656"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Breast Cancer",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2374-4677",
+  "issns": [
+   "2374-4677"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Cardiovascular Health",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-2836",
+  "issns": [
+   "2948-2836"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Clean Air",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-2240",
+  "issns": [
+   "3059-2240"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Clean Energy",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-2232",
+  "issns": [
+   "3059-2232"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Clean Water",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2059-7037",
+  "issns": [
+   "2059-7037"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Climate Action",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-9814",
+  "issns": [
+   "2731-9814"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Climate and Atmospheric Science",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-3722",
+  "issns": [
+   "2397-3722"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Complexity",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-8753",
+  "issns": [
+   "2731-8753"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Computational Materials",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2057-3960",
+  "issns": [
+   "2057-3960"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Dementia",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-1940",
+  "issns": [
+   "3005-1940"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Digital Medicine",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2398-6352",
+  "issns": [
+   "2398-6352"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Digital Public Health",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3091-2784",
+  "issns": [
+   "3091-2784"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Digital Surgery",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3091-2806",
+  "issns": [
+   "3091-2806"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Drug Discovery",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-1452",
+  "issns": [
+   "3005-1452"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Emerging Contaminants",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3719",
+  "issns": [
+   "3059-3719"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Energy Materials",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3735",
+  "issns": [
+   "3059-3735"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Entomology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3298",
+  "issns": [
+   "3059-3298"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Environmental Social Sciences",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3271",
+  "issns": [
+   "3059-3271"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Flexible Electronics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-4621",
+  "issns": [
+   "2397-4621"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Genomic Medicine",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2056-7944",
+  "issns": [
+   "2056-7944"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Gut and Liver",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3004-9806",
+  "issns": [
+   "3004-9806"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Health Systems",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-1959",
+  "issns": [
+   "3005-1959"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Heritage Science",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3220",
+  "issns": [
+   "3059-3220"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Imaging",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-197X",
+  "issns": [
+   "2948-197X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Materials Degradation",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-2106",
+  "issns": [
+   "2397-2106"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Materials Sustainability",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-1775",
+  "issns": [
+   "2948-1775"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Mental Health Research",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-4251",
+  "issns": [
+   "2731-4251"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Metabolic Health and Disease",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-2828",
+  "issns": [
+   "2948-2828"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Metamaterials",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3727",
+  "issns": [
+   "3059-3727"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Microgravity",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2373-8065",
+  "issns": [
+   "2373-8065"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Nanophotonics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-216X",
+  "issns": [
+   "2948-216X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Natural Hazards",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-2100",
+  "issns": [
+   "2948-2100"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Nonlinear Photonics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2522-8897",
+  "issns": [
+   "2522-8897"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Ocean Sustainability",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-426X",
+  "issns": [
+   "2731-426X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Palaeoecosystems",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3091-390X",
+  "issns": [
+   "3091-390X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Parkinson s Disease",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2373-8057",
+  "issns": [
+   "2373-8057"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Precision Oncology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-768X",
+  "issns": [
+   "2397-768X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Primary Care Respiratory Medicine",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2055-1010",
+  "issns": [
+   "2055-1010"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Quantum Information",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2056-6387",
+  "issns": [
+   "2056-6387"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Quantum Materials",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2397-4648",
+  "issns": [
+   "2397-4648"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Regenerative Medicine",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2057-3995",
+  "issns": [
+   "2057-3995"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Robotics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-4278",
+  "issns": [
+   "2731-4278"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Science of Food",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2396-8370",
+  "issns": [
+   "2396-8370"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Science of Learning",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2056-7936",
+  "issns": [
+   "2056-7936"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Science of Plants",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3005-1401",
+  "issns": [
+   "3005-1401"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Soft Matter",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3263",
+  "issns": [
+   "3059-3263"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Soil Ecology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3091-2814",
+  "issns": [
+   "3091-2814"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Space Exploration",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3700",
+  "issns": [
+   "3059-3700"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Spintronics",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-2119",
+  "issns": [
+   "2948-2119"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Sustainable Agriculture",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2731-9202",
+  "issns": [
+   "2731-9202"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Sustainable Mobility and Transport",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3004-8664",
+  "issns": [
+   "3004-8664"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Sustainable Oceans",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2524-759X",
+  "issns": [
+   "2524-759X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Systems Biology and Applications",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2056-7189",
+  "issns": [
+   "2056-7189"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Thermal Science and Engineering",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-3301",
+  "issns": [
+   "3059-3301"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Unconventional Computing",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3004-8672",
+  "issns": [
+   "3004-8672"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Urban Sustainability",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2661-8001",
+  "issns": [
+   "2661-8001"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Vaccines",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2059-0105",
+  "issns": [
+   "2059-0105"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Veterinary Sciences",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-328X",
+  "issns": [
+   "3059-328X"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Viruses",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-1767",
+  "issns": [
+   "2948-1767"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Wireless Technology",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "3059-4391",
+  "issns": [
+   "3059-4391"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ },
+ {
+  "name": "npj Women s Health",
+  "abbr": "",
+  "pub": "Nature Portfolio",
+  "issn": "2948-1716",
+  "issns": [
+   "2948-1716"
+  ],
+  "jcr": null,
+  "oa2y": null,
+  "cnt": null,
+  "jtype": "研究刊",
+  "field": "",
+  "tier": "",
+  "rel": "",
+  "note": "",
+  "src": "Nature系"
+ }
+]

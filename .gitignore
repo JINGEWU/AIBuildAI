@@ -21,14 +21,29 @@ _剔除_*/
 fulltext_xml/
 
 # 上面的 !batch2/*.xlsx
-!batch3/*.xlsx 例外会连 Excel 锁文件一并放行，须在最后再排除一次
+# !batch3/*.xlsx 例外会连 Excel 锁文件一并放行，须在最后再排除一次
 batch2/~$*
 batch2/*.zip
 batch3/~$*
 batch3/*.zip
 
-# data/ 整体不入库（works_merged.jsonl 等太大），但这三个是人和模型的判断，
-# 程序重算不出来 —— 交付表全靠它们生成，丢了得重判 582 篇、重读 396 篇 PDF。
+# data/ 整体不入库（works_merged.jsonl 499MB、fulltext/ 上 GB，都该重抓不该入库），
+# 但下面这些程序重算不出来，或者少了它们流程根本起不来 —— 一份干净 clone 必须带上。
+
+# 判读结果：人和模型判的，丢了得重判。
+# verdicts 是 3146 篇一轮判读，缺了 screen1 export 出空表、fetch 没目标；
+# verdicts2 / extracted / baseline_verdicts 分别是 582 篇四维判读、396 篇 14 字段抽取、54 篇三维判定。
+# 注意：gitignore 不支持行尾注释，这里每行只能写模式本身。
+!data/verdicts.json
 !data/verdicts2.json
 !data/extracted.json
 !data/baseline_verdicts.json
+
+# 流程入口与复现名单。merged_journals 是 340 本刊的三份来源人工合并，
+# 缺了 S0 直接 die、harvest 没 ISSN 可遍历；batch3_selected 是 batch3 当初的入选名单。
+!data/merged_journals.json
+!data/batch3_selected.json
+
+# 全文信号：理论上 s4 能重算，但要 fulltext/ 那 549 个 PDF（没入库）。
+# 缺了 build 不报错但档位全错（345 篇 S20/A143/B182 → 333 篇 S0/A2/B331）。
+!data/fulltext_digest.jsonl
