@@ -70,6 +70,9 @@ def recall():
 def classify(r):
     """返回 (分组, 理由)。前 4 类自动排除，review 进判读队列。"""
     ti, ab = (r.get("title") or ""), (r.get("abstract") or "")
+    # DOI 段先判：Nature 新闻段与 ASH 年会摘要段，正文关键词拦不住（它们也谈 AI agent）
+    if C.RE_NONPAPER_DOI.search(r.get("doi") or ""):
+        return "auto_conf", "非论文体裁（Nature 新闻段 / 会议摘要段 DOI）"
     if C.RE_CONF_ABS.match(ab) or C.RE_CONF_TITLE.match(ti) or C.RE_ALLCAP_TITLE.match(ti.strip()):
         return "auto_conf", "会议摘要（无全文/无可复现基准）"
     if C.RE_SURVEY_STRICT.search(ti):
@@ -132,8 +135,8 @@ def dump(batch, size, out):
     with open(out, "w", encoding="utf-8") as f:
         f.write(f"### 待判 {len(todo)} / 队列 {len(q)}；本批 {batch*size}~{batch*size+len(seg)-1}\n")
         f.write("### 回写格式: #i@doi|判定(入选/待定/排除)|置信(高/中/低)|理由\n")
-        for r in seg:
-            f.write(f"#{batch*size}@{m.norm_doi(r.get('doi'))}|{_clip(r.get('journal'),22)} "
+        for i, r in enumerate(seg):
+            f.write(f"#{batch*size+i}@{m.norm_doi(r.get('doi'))}|{_clip(r.get('journal'),22)} "
                     f"{r.get('year')} IF{r.get('jcr')}|{_clip(r.get('title'),110)}\n")
             if r.get("abstract"):
                 f.write(f"  ABS: {_clip(r['abstract'], 700)}\n")

@@ -84,8 +84,10 @@ KW_STRONG = [
  # "embodied agents" 这些最常见的说法 —— 早期那批 agent 论文正因此没进判读队列。
  # 限定词不能省：裸 \bagents?\b 在全库命中 8592 条，绝大多数是化学/医学的
  # 「试剂」义（contrast agent、antimicrobial agent），加限定后只剩 399 条。
+ # 不含 diagnostic：放射药物学里 "diagnostic/theranostic agents" 指诊断药剂，
+ # 实测仅因它命中的 11 条全部是化学论文，判读后无一入选
  r"\b(ai|artificial intelligence|language|llm|gpt|embodied|conversational|autonomous|"
- r"software|web|research|scientific|coding|diagnostic)[- ]agents?\b"]
+ r"software|web|research|scientific|coding)[- ]agents?\b"]
 
 # D. 负向：湿实验 / 硬件 / 人工评测 / 临床试验（用户明确排除）
 KW_NEG = [
@@ -150,6 +152,11 @@ RE_SURVEY_STRICT = re.compile(
  r"^(a|an)\s+(systematic\s+)?(survey|review|overview|tutorial|taxonomy)\b|"
  r"\b(survey|review|tutorial|taxonomy|scoping review|systematic literature review)\s*$|"
  r"\ba (survey|review) (of|on)\b|\bsurvey and\b|\breview of\b|\breview and\b)", re.I)
+# DOI 段本身就能判死的非论文体裁 —— 比正文关键词可靠得多：
+#   10.1038/d41586  Nature 的新闻/评论/Daily briefing 段（候选池里 463 条）
+#   10.1182/blood-YYYY-N  ASH 年会摘要（1842 条，全部以 "Abstract Background" 起手）；
+#                         Blood 正刊论文是点号型 10.1182/blood.NNNN，不受影响
+RE_NONPAPER_DOI = re.compile(r"10\.1038/d41586|10\.1182/blood-\d{4}-\d+", re.I)
 RE_CONF_ABS = re.compile(
  r"^\s*(e?\d{1,6})\s+(Background|Methods|Introduction|Purpose|Objectives?|Aims?)\b", re.I)
 RE_CONF_TITLE = re.compile(r"^\s*(e?\d{2,6}[A-Z]{0,3})\s+[A-Z]")
